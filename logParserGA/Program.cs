@@ -279,24 +279,21 @@ namespace logParserGA
                         file.WriteLine("|logErr=" + SecurityElement.Escape(String.Join("\n",allObj.objList[x + i].log.loglines)));
                         file.WriteLine("|createable=" + SecurityElement.Escape(allObj.objList[x + i].createable.ToString()));
                         if (allObj.objList[x + i].parentClassHirachical != null) { file.WriteLine("|hiraTree=" + SecurityElement.Escape(allObj.objList[x + i].parentClassHirachical.ToString())); }
+                        if (allObj.objList[x + i].parents != null) { file.WriteLine("|allParents=" + SecurityElement.Escape(allObj.objList[x + i].parents.ToString())); }
 
-                        file.WriteLine("|accuracy=" + SecurityElement.Escape(allObj.objList[i + x].accuracy));
-                        file.WriteLine("|camouflage=" + SecurityElement.Escape(allObj.objList[i + x].camouflage));
+                        file.WriteLine("|accuracy=" + SecurityElement.Escape(allObj.objList[i + x].accuracy.Replace('.',',')));
+                        file.WriteLine("|camouflage=" + SecurityElement.Escape(allObj.objList[i + x].camouflage.Replace('.', ',')));
                         file.WriteLine("|weapons=" + SecurityElement.Escape(allObj.objList[i + x].weapons));
                         file.WriteLine("|magazines=" + SecurityElement.Escape(allObj.objList[i + x].magazines));
 
-                        file.WriteLine("|accuracy=" + SecurityElement.Escape(allObj.objList[i + x].accuracy));
-                        file.WriteLine("|camouflage=" + SecurityElement.Escape(allObj.objList[i + x].camouflage));
-                        file.WriteLine("|weapons=" + SecurityElement.Escape(allObj.objList[i + x].weapons));
-                        file.WriteLine("|magazines=" + SecurityElement.Escape(allObj.objList[i + x].magazines));
-                        file.WriteLine("|audible=" + SecurityElement.Escape(allObj.objList[i + x].audible));
-                        file.WriteLine("|crewProtectExplo=" + SecurityElement.Escape(allObj.objList[i + x].crewExplosionProtection));
-                        file.WriteLine("|crewProtecCrash=" + SecurityElement.Escape(allObj.objList[i + x].crewCrashProtection));
+                        file.WriteLine("|audible=" + SecurityElement.Escape(allObj.objList[i + x].audible.Replace('.', ',')));
+                        file.WriteLine("|crewProtectExplo=" + SecurityElement.Escape(allObj.objList[i + x].crewExplosionProtection.Replace('.', ',')));
+                        file.WriteLine("|crewProtecCrash=" + SecurityElement.Escape(allObj.objList[i + x].crewCrashProtection.Replace('.', ',')));
                         file.WriteLine("|transportSoldier=" + SecurityElement.Escape(allObj.objList[i + x].transportSoldier));
                         file.WriteLine("|maxLoad=" + SecurityElement.Escape(allObj.objList[i + x].maximumLoad));
-                        file.WriteLine("|fuelCapacity=" + SecurityElement.Escape(allObj.objList[i + x].fuelCapacity));
-                        file.WriteLine("|maxSpeed=" + SecurityElement.Escape(allObj.objList[i + x].maxSpeed));
-                        file.WriteLine("|brakeDist=" + SecurityElement.Escape(allObj.objList[i + x].brakeDistance));
+                        file.WriteLine("|fuelCapacity=" + SecurityElement.Escape(allObj.objList[i + x].fuelCapacity.Replace('.', ',')));
+                        file.WriteLine("|maxSpeed=" + SecurityElement.Escape(allObj.objList[i + x].maxSpeed.Replace('.', ',')));
+                        file.WriteLine("|brakeDist=" + SecurityElement.Escape(allObj.objList[i + x].brakeDistance.Replace('.', ',')));
                         file.WriteLine("|cargoIsCoDriver=" + SecurityElement.Escape(allObj.objList[i + x].cargoIsCoDriver));
                         file.WriteLine("|crew=" + SecurityElement.Escape(allObj.objList[i + x].crew));
                         file.WriteLine("|transMaxWeap=" + SecurityElement.Escape(allObj.objList[i + x].transportMaxWeapons));
@@ -331,19 +328,27 @@ namespace logParserGA
                     */
 
                     file.WriteLine("</mediawiki>");
-
-
                 }
             }
         }
+
+        static internal void createWikiBaseCategories(string catLabel, StreamWriter file)
+        {
+
+            file.WriteLine("<!-- category " + catLabel + "-->");
+            file.WriteLine("<page><title>Category:" + SecurityElement.Escape(catLabel) + "</title><revision><contributor><username>Shura</username><id>5</id></contributor><minor/><text xml:space= \"preserve\">");
+            file.WriteLine("[[Category:Classnames]]");
+            file.WriteLine("</text></revision></page>");
+        }
+
         static internal void createWikiCategories(string catLabel, Dictionary<string, int> catColl, StreamWriter file, string catSMWAtt)
         {
             foreach (string cat in catColl.Keys)
             {
                 file.WriteLine("<!-- category " + catLabel + " " + cat + "-->");
-                file.WriteLine("<page><title>Category:" + catLabel + " " + cat + "</title><revision><contributor><username>Shura</username><id>5</id></contributor><minor/><text xml:space= \"preserve\">");
+                file.WriteLine("<page><title>Category:" + SecurityElement.Escape(catLabel) + " " + SecurityElement.Escape(cat) + "</title><revision><contributor><username>Shura</username><id>5</id></contributor><minor/><text xml:space= \"preserve\">");
                 file.WriteLine("{{#ask:");
-                file.WriteLine("[[AttCategory::Object]][[" + catSMWAtt + "::" + cat + "]]");
+                file.WriteLine("[[AttCategory::Object]][[" + catSMWAtt + "::" + SecurityElement.Escape(cat) + "]]");
                 file.WriteLine("|?AttClassname=Classname");
                 file.WriteLine("|?AttObjDisplayname=Label");
                 file.WriteLine("|?AttObjType=Typ");
@@ -351,8 +356,10 @@ namespace logParserGA
                 file.WriteLine("|?Has image=Thumb");
                 file.WriteLine("|?genLogErr=LogErr");
                 file.WriteLine("}}");
+                file.WriteLine("[[Category:" + catLabel + "]]");
                 file.WriteLine("</text></revision></page>");
             }
+            createWikiBaseCategories(catLabel, file);
         }
     }
 }

@@ -57,6 +57,11 @@ namespace logParserGA
             this.entry = entry;
         }
         public ParentHiraObject() { }
+
+        public override string ToString()
+        {
+            return entry;
+        }
     }
 
     [Serializable()]
@@ -75,6 +80,11 @@ namespace logParserGA
 
         }
         public ParentHiraColl() {}
+
+        public override string ToString()
+        {
+            return String.Join(",", _parents);
+        }
     }
 
     [Serializable()]
