@@ -63,7 +63,7 @@ namespace logParserGA
             return entry;
         }
     }
-
+    /*
     [Serializable()]
     public class ParentHiraColl {
         private List<ParentHiraObject> _parents = new List<ParentHiraObject>();
@@ -86,7 +86,7 @@ namespace logParserGA
             return String.Join(",", _parents);
         }
     }
-
+    */
     [Serializable()]
     public class ArmaObject
     {
@@ -134,6 +134,14 @@ namespace logParserGA
             return retVal;
         }
 
+        private void appendParents(List<string> parentList)
+        {
+            for (int i = parentList.Count - 1; i >= 0;i-- ) {
+                parents.Add(new ParentHiraObject(Math.Abs(i-parentList.Count), parentList[i]));
+            }
+
+        }
+
         private string handleCoDriver(string datastring)
         {
             List<string> data = singleData(datastring);
@@ -170,7 +178,10 @@ namespace logParserGA
                   this.parent = valList[11];
                   this.ttl = valList[12];
                   this.mod = (valList[13].Length >= 1 && valList[13].Substring(0,1).Equals("@") ? valList[13].Substring(1) : valList[13]);
-                  this.parents = new ParentHiraColl(singleData(valList[14]));
+                  //this.parents = new ParentHiraColl(singleData(valList[14]));
+                  
+                  //set parents
+                  appendParents(singleData(valList[14]));
                   break;
                 case ("exp_002"):
                   //[faction,crew,picture,icon,slingLoadCargoMemoryPoints,crewCrashProtection,crewExplosionProtection,numberPhysicalWheels,tracksSpeed,CommanderOptics,maxGForce,fireResistance,airCapacity,tf_hasLRradio,author]"
@@ -275,7 +286,10 @@ namespace logParserGA
 
             return buffer;
         }
-
+        public string getParentListForWiki()
+        {
+            return String.Join(",", parents);
+        }
         private List<string> singleData (string data) {
           List<string> retVal = new List<string>();
           string buffer = "";
@@ -333,7 +347,8 @@ namespace logParserGA
         public string parent;
         public string ttl;
         public string mod;
-        public ParentHiraColl parents  = new ParentHiraColl();
+        public List<ParentHiraObject> parents = new List<ParentHiraObject>();
+        //public ParentHiraColl parents  = new ParentHiraColl();
 //002
         public string faction;
         public string crew;

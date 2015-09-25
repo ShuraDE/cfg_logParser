@@ -44,7 +44,7 @@ namespace logParserGA
 
             if (args.Length == 3)
             {
-                wikiPrefix = args[2];
+                wikiPrefix = args[2]; 
             }
 
 
@@ -225,7 +225,7 @@ namespace logParserGA
 
         static internal void WriteOut(ArmaObjects allObj, string filePath)
         {
-            Type[] types = { typeof(List<ArmaObject>), typeof(ArmaObject), typeof(ParentHiraObject), typeof(ParentHiraColl), typeof(LogLines) };
+            Type[] types = { typeof(List<ArmaObject>), typeof(ArmaObject), typeof(ParentHiraObject), typeof(LogLines) };
 
             allObj.buildSections();
 
@@ -279,7 +279,7 @@ namespace logParserGA
                         file.WriteLine("|logErr=" + SecurityElement.Escape(String.Join("\n",allObj.objList[x + i].log.loglines)));
                         file.WriteLine("|createable=" + SecurityElement.Escape(allObj.objList[x + i].createable.ToString()));
                         if (allObj.objList[x + i].parentClassHirachical != null) { file.WriteLine("|hiraTree=" + SecurityElement.Escape(allObj.objList[x + i].parentClassHirachical.ToString())); }
-                        if (allObj.objList[x + i].parents != null) { file.WriteLine("|allParents=" + SecurityElement.Escape(allObj.objList[x + i].parents.ToString())); }
+                        if (allObj.objList[x + i].parents != null) { file.WriteLine("|allParents=" + SecurityElement.Escape(allObj.objList[x + i].getParentListForWiki())); }
 
                         file.WriteLine("|accuracy=" + SecurityElement.Escape(allObj.objList[i + x].accuracy.Replace('.',',')));
                         file.WriteLine("|camouflage=" + SecurityElement.Escape(allObj.objList[i + x].camouflage.Replace('.', ',')));
