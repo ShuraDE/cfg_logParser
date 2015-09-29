@@ -40712,8 +40712,7 @@ Cannot find base \data\w1_LOC_soldier01_mc.paa for lop_faction_am\data\w1_loc_so
 Cannot find base dier01_as.paa for lop_faction_am\data\w1_loc_soldier01.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w1_loc_soldier01.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w1_loc_soldier01.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w1_loc_soldier01.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w1_loc_soldier01.rvmat/Stage7/
 Material lop_faction_am\data\w1_loc_soldier01.rvmat load failed
 Cannot find base op_faction_am\data\LOC_soldier01_nohq.paa for lop_faction_am\data\w2_loc_soldier01.rvmat/Stage1/
 EOF in string
@@ -40722,8 +40721,7 @@ Cannot find base \data\w2_LOC_soldier01_mc.paa for lop_faction_am\data\w2_loc_so
 Cannot find base dier01_as.paa for lop_faction_am\data\w2_loc_soldier01.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w2_loc_soldier01.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w2_loc_soldier01.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w2_loc_soldier01.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w2_loc_soldier01.rvmat/Stage7/
 Material lop_faction_am\data\w2_loc_soldier01.rvmat load failed
 |createable=True
 |hiraTree=Man
@@ -40774,8 +40772,7 @@ Cannot find base \data\w1_LOC_soldier03_mc.paa for lop_faction_am\data\w1_loc_so
 Cannot find base dier03_as.paa for lop_faction_am\data\w1_loc_soldier03.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w1_loc_soldier03.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w1_loc_soldier03.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w1_loc_soldier03.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w1_loc_soldier03.rvmat/Stage7/
 Material lop_faction_am\data\w1_loc_soldier03.rvmat load failed
 Cannot find base op_faction_am\data\LOC_soldier03_nohq.paa for lop_faction_am\data\w2_loc_soldier03.rvmat/Stage1/
 EOF in string
@@ -40784,8 +40781,7 @@ Cannot find base \data\w2_LOC_soldier03_mc.paa for lop_faction_am\data\w2_loc_so
 Cannot find base dier03_as.paa for lop_faction_am\data\w2_loc_soldier03.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w2_loc_soldier03.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w2_loc_soldier03.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w2_loc_soldier03.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w2_loc_soldier03.rvmat/Stage7/
 Material lop_faction_am\data\w2_loc_soldier03.rvmat load failed
 Deinitialized shape [Class: &quot;LOP_AFR_Infantry_TL&quot;; Shape: &quot;a3\characters_f_gamma\guerrilla\ig_guerrilla1_1.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_AFR_Infantry_AT&quot;; Shape: &quot;a3\characters_f_gamma\guerrilla\ig_guerrilla1_1.p3d&quot;;]
@@ -40858,8 +40854,7 @@ Cannot find base \data\w1_LOC_soldier04_mc.paa for lop_faction_am\data\w1_loc_so
 Cannot find base dier04_as.paa for lop_faction_am\data\w1_loc_soldier04.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w1_loc_soldier04.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w1_loc_soldier04.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w1_loc_soldier04.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w1_loc_soldier04.rvmat/Stage7/
 Material lop_faction_am\data\w1_loc_soldier04.rvmat load failed
 Cannot find base op_faction_am\data\LOC_soldier04_nohq.paa for lop_faction_am\data\w2_loc_soldier04.rvmat/Stage1/
 EOF in string
@@ -40868,8 +40863,7 @@ Cannot find base \data\w2_LOC_soldier04_mc.paa for lop_faction_am\data\w2_loc_so
 Cannot find base dier04_as.paa for lop_faction_am\data\w2_loc_soldier04.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w2_loc_soldier04.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w2_loc_soldier04.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w2_loc_soldier04.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w2_loc_soldier04.rvmat/Stage7/
 Material lop_faction_am\data\w2_loc_soldier04.rvmat load failed
 Generating ST on the fly is very slow
 |createable=True
@@ -40930,8 +40924,7 @@ Cannot find base \data\w1_LOC_soldier05_mc.paa for lop_faction_am\data\w1_loc_so
 Cannot find base dier05_as.paa for lop_faction_am\data\w1_loc_soldier05.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w1_loc_soldier05.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w1_loc_soldier05.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w1_loc_soldier05.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w1_loc_soldier05.rvmat/Stage7/
 Material lop_faction_am\data\w1_loc_soldier05.rvmat load failed
 Cannot find base op_faction_am\data\LOC_soldier05_nohq.paa for lop_faction_am\data\w2_loc_soldier05.rvmat/Stage1/
 EOF in string
@@ -40940,8 +40933,7 @@ Cannot find base \data\w2_LOC_soldier05_mc.paa for lop_faction_am\data\w2_loc_so
 Cannot find base dier05_as.paa for lop_faction_am\data\w2_loc_soldier05.rvmat/Stage4/
 Cannot find base aa for lop_faction_am\data\w2_loc_soldier05.rvmat/Stage5/
 Cannot find base nsform for lop_faction_am\data\w2_loc_soldier05.rvmat/Stage6/
-Parser: found unprintable char :6
-Cannot find base � for lop_faction_am\data\w2_loc_soldier05.rvmat/Stage7/
+Cannot find base � for lop_faction_am\data\w2_loc_soldier05.rvmat/Stage7/
 Material lop_faction_am\data\w2_loc_soldier05.rvmat load failed
 Deinitialized shape [Class: &quot;LOP_AFR_Infantry_Marksman&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_AFR_Infantry_IED&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]

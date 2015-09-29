@@ -154,7 +154,7 @@ namespace logParserGA
                         if (bNoValidLine)
                         {
                             if (aObj != null && !bIgnoreLine) { 
-                                aObj.log.add(line);
+                                aObj.log.Add(line);
                                 aObj.logContainsErrors = true;
                                 //Console.WriteLine("add log " + " - #" + line + "#");
                             }
@@ -182,7 +182,7 @@ namespace logParserGA
                                     { break; }
                                     if (!bIgnoreLine) {
                                         aObj.logContainsErrors = true;
-                                        aObj.log.add(line);
+                                        aObj.log.Add(line);
                                     }
                                     break;
                             }
@@ -276,7 +276,7 @@ namespace logParserGA
                         file.WriteLine("|Armor=" + SecurityElement.Escape(allObj.objList[i + x].armor));
                         file.WriteLine("|hiddenSel=" + SecurityElement.Escape(allObj.objList[i + x].hiddenSelections));
                         file.WriteLine("|genLogErr=" + SecurityElement.Escape(allObj.objList[x + i].logContainsErrors.ToString()));
-                        file.WriteLine("|logErr=" + SecurityElement.Escape(String.Join("\n",allObj.objList[x + i].log.loglines)));
+                        file.WriteLine("|logErr=" + SecurityElement.Escape(String.Join("\n",allObj.objList[x + i].log)));
                         file.WriteLine("|createable=" + SecurityElement.Escape(allObj.objList[x + i].createable.ToString()));
                         if (allObj.objList[x + i].parentClassHirachical != null) { file.WriteLine("|hiraTree=" + SecurityElement.Escape(allObj.objList[x + i].parentClassHirachical.ToString())); }
                         if (allObj.objList[x + i].parents != null) { file.WriteLine("|allParents=" + SecurityElement.Escape(allObj.objList[x + i].getParentListForWiki())); }

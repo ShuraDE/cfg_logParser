@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace logParserGA
 {
@@ -23,31 +24,8 @@ namespace logParserGA
     }
 
     [Serializable()]
-    public class LogLines {
-        private List<string> _loglines = new List<string>();
-
-        public List<string> loglines
-        {
-            get { return _loglines; }
-        }
-
-        public void add (string value) {
-            string addValue = "";
-            foreach (char c in value.ToCharArray())
-            {
-                if (!(c < 32 || (c > 126 && c < 161)))
-                {
-                    addValue += c.ToString();
-                }  else {
-                    _loglines.Add("Parser: found unprintable char :" + (int)c);
-                }
-            }
-            _loglines.Add(addValue);
-        }
-    }
-
-    [Serializable()]
     public class ParentHiraObject {
+
         public int tier = -1;
         public string entry = "";
 
@@ -63,31 +41,9 @@ namespace logParserGA
             return entry;
         }
     }
-    /*
+
     [Serializable()]
-    public class ParentHiraColl {
-        private List<ParentHiraObject> _parents = new List<ParentHiraObject>();
-
-        public List<ParentHiraObject> parents {
-            get { return _parents; }
-        }
-
-        public ParentHiraColl(List<string> parentList)
-        {
-            for (int i = parentList.Count - 1; i >= 0;i-- ) {
-                _parents.Add(new ParentHiraObject(Math.Abs(i-parentList.Count), parentList[i]));
-            }
-
-        }
-        public ParentHiraColl() {}
-
-        public override string ToString()
-        {
-            return String.Join(",", _parents);
-        }
-    }
-    */
-    [Serializable()]
+    [XmlType("ArmaObject")]
     public class ArmaObject
     {
         public ArmaObject() { }
@@ -413,7 +369,10 @@ namespace logParserGA
         public string parentClassHirachical;
 
         public bool logContainsErrors = false;
-        public LogLines log = new LogLines();
+
+        [XmlArray("LogLines")]
+        [XmlArrayItem("Line")]
+        public List<string> log = new List<string>();
 
         public bool createable = true;
 
