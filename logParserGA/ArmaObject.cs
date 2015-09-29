@@ -182,8 +182,8 @@ namespace logParserGA
                   this.brakeDistance = valList[6];
                   this.maxSpeed = valList[7];
                   this.minSpeed = valList[8];
-                  this.hiddenSelections = handleArray(valList[9],false,false);
-                  this.hiddenSelectionsTextures = valList[10];
+                  this.hiddenSelections = handleArray(valList[9], false, false).Split(',').ToList<string>();
+                  this.hiddenSelectionsTextures = handleArray(valList[10],false,false).Split(',').ToList<string>();
                   break;
                 case ("exp_005"):
                   //[armorStructural,armorFuel,armorGlass,armorLights,armorWheels,armorHull,armorTurret,armorGun,armorEngine,armorTracks,armorHead,armorHands,armorLegs,armorEngine,armorAvionics,armorVRotor,armorHRotor,armorMissiles]"
@@ -341,8 +341,14 @@ namespace logParserGA
         public string brakeDistance;
         public string maxSpeed;
         public string minSpeed;
-        public string hiddenSelections;
-        public string hiddenSelectionsTextures;
+
+        [XmlArray("hiddenSelections")]
+        [XmlArrayItem("hiddenSelection")]
+        public List<string> hiddenSelections;
+
+        [XmlArray("hiddenSelectionsTextures")]
+        [XmlArrayItem("hiddenSelectionsTexture")]
+        public List<string> hiddenSelectionsTextures;
 //005
         public string armorStructural;
         public string armorFuel;

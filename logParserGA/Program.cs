@@ -225,14 +225,14 @@ namespace logParserGA
 
         static internal void WriteOut(ArmaObjects allObj, string filePath)
         {
-            Type[] types = { typeof(List<ArmaObject>), typeof(ArmaObject), typeof(ParentHiraObject), typeof(LogLines) };
+            Type[] types = { typeof(List<ArmaObject>), typeof(ArmaObject), typeof(ParentHiraObject)};
 
             allObj.buildSections();
 
             //all attributes
-            XmlSerializer mySerializer = new XmlSerializer(typeof(ArmaObjects), types );
+            XmlSerializer mySerializer = new XmlSerializer(typeof(List<ArmaObject>), new XmlAttributeOverrides() , types, new XmlRootAttribute("ArmaObjects"), "");
             StreamWriter myWriter = new StreamWriter(filePath + "\\arma_objects.xml");
-            mySerializer.Serialize(myWriter, allObj);
+            mySerializer.Serialize(myWriter, allObj.objList);
             myWriter.Close();
 
 
@@ -274,7 +274,7 @@ namespace logParserGA
                         file.WriteLine("|ModBase=" + SecurityElement.Escape(allObj.objList[i + x].mod.Replace("@", "")));
                         file.WriteLine("|Author=" + SecurityElement.Escape(allObj.objList[i + x].author));
                         file.WriteLine("|Armor=" + SecurityElement.Escape(allObj.objList[i + x].armor));
-                        file.WriteLine("|hiddenSel=" + SecurityElement.Escape(allObj.objList[i + x].hiddenSelections));
+                        file.WriteLine("|hiddenSel=" + SecurityElement.Escape(String.Join("\n",allObj.objList[i + x].hiddenSelections)));
                         file.WriteLine("|genLogErr=" + SecurityElement.Escape(allObj.objList[x + i].logContainsErrors.ToString()));
                         file.WriteLine("|logErr=" + SecurityElement.Escape(String.Join("\n",allObj.objList[x + i].log)));
                         file.WriteLine("|createable=" + SecurityElement.Escape(allObj.objList[x + i].createable.ToString()));

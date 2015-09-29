@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace logParserGA
 {
     [Serializable()]
+    [XmlRoot("ArmaObjects")]
     public class ArmaObjects
     {
         internal Dictionary<string, int> factions = new Dictionary<string, int>();
@@ -16,6 +18,8 @@ namespace logParserGA
         internal Dictionary<string, int> subtype = new Dictionary<string, int>();
         internal Dictionary<string, int> root = new Dictionary<string, int>();
 
+        [XmlArray("ArmaObjects")]
+        [XmlArrayItem("ArmaObject")]
         public List<ArmaObject> objList = new List<ArmaObject>();
 
         public void buildSections()
