@@ -12,7 +12,9 @@
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
@@ -66,7 +68,9 @@ soldier[COREV_I_TME_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
@@ -120,7 +124,9 @@ soldier[COREV_O_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
@@ -174,7 +180,9 @@ soldier[COREV_I_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -217,7 +225,9 @@ soldier[COREV_I_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -260,7 +270,9 @@ soldier[COREV_I_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -303,7 +315,9 @@ soldier[COREV_I_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -346,7 +360,9 @@ soldier[COREV_I_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -389,7 +405,9 @@ soldier[COREV_I_TME_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1740,7 +1758,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1783,7 +1803,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1826,7 +1848,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1869,7 +1893,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1912,7 +1938,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1955,7 +1983,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1998,7 +2028,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2041,7 +2073,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2084,7 +2118,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2127,7 +2163,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2170,7 +2208,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2213,7 +2253,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2256,7 +2298,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2299,7 +2343,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2342,7 +2388,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2385,7 +2433,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2428,7 +2478,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2471,7 +2523,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2514,7 +2568,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_CDF_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_CDF_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2566,7 +2622,9 @@ soldier[COREV_O_CDF_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_CDF_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_CDF_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2618,7 +2676,9 @@ soldier[COREV_I_CDF_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_CDF_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_CDF_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2670,7 +2730,9 @@ soldier[COREV_O_CDF_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_CDF_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_CDF_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2722,7 +2784,9 @@ soldier[COREV_I_CDF_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2774,7 +2838,9 @@ soldier[COREV_O_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2826,7 +2892,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2869,7 +2937,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2912,7 +2982,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2955,7 +3027,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2998,7 +3072,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3041,7 +3117,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3084,7 +3162,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3127,7 +3207,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3170,7 +3252,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3213,7 +3297,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3256,7 +3342,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3299,7 +3387,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3342,7 +3432,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3385,7 +3477,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3428,7 +3522,9 @@ soldier[COREV_I_CDF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -3480,7 +3576,9 @@ soldier[COREV_O_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -3532,7 +3630,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3575,7 +3675,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3618,7 +3720,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3661,7 +3765,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3704,7 +3810,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3747,7 +3855,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3790,7 +3900,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3833,7 +3945,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3876,7 +3990,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3919,7 +4035,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3962,7 +4080,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4005,7 +4125,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4048,7 +4170,9 @@ soldier[COREV_I_CDG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_CDG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_CDG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -4100,7 +4224,9 @@ soldier[COREV_O_CDG_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_CDG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_CDG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -4152,7 +4278,9 @@ soldier[COREV_I_CDG_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
@@ -4206,7 +4334,9 @@ soldier[COREV_O_CDG_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
@@ -4260,7 +4390,9 @@ soldier[COREV_I_CDG_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
@@ -4314,7 +4446,9 @@ soldier[COREV_O_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
@@ -4368,7 +4502,9 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4411,7 +4547,9 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4454,7 +4592,9 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4497,7 +4637,9 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4540,7 +4682,9 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4583,7 +4727,9 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4626,7 +4772,8 @@ soldier[COREV_I_CDG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=arc_gerup
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6130,7 +6277,8 @@ soldier[ARC_GER_Flecktarn_support_AMort]:Some of magazines weren&apos;t stored i
 |ModBase=arc_gerup
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6431,7 +6579,8 @@ soldier[ARC_GER_Flecktarn_support_AMort]:Some of magazines weren&apos;t stored i
 |ModBase=arc_gerup
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6474,7 +6623,8 @@ soldier[ARC_GER_Flecktarn_support_AMort]:Some of magazines weren&apos;t stored i
 |ModBase=arc_gerup
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7978,7 +8128,8 @@ soldier[ARC_GER_Tropentarn_support_AMort]:Some of magazines weren&apos;t stored 
 |ModBase=arc_gerup
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8279,7 +8430,8 @@ soldier[ARC_GER_Tropentarn_support_AMort]:Some of magazines weren&apos;t stored 
 |ModBase=arc_gerup
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8322,7 +8474,9 @@ soldier[ARC_GER_Tropentarn_support_AMort]:Some of magazines weren&apos;t stored 
 |ModBase=arc_gerup
 |Author==ARC=
 |Armor=2
-|hiddenSel=Camo1,camo2,insignia
+|hiddenSel=Camo1
+camo2
+insignia
 |genLogErr=True
 |logErr=soldier[GER_Flecktarn_Officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[GER_Flecktarn_Officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8374,7 +8528,9 @@ soldier[GER_Flecktarn_Officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=arc_gerup
 |Author==ARC=
 |Armor=2
-|hiddenSel=Camo1,camo2,insignia
+|hiddenSel=Camo1
+camo2
+insignia
 |genLogErr=True
 |logErr=soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8426,7 +8582,8 @@ soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=arc_gerup
 |Author=Soronelite
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8856,7 +9013,8 @@ soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8942,7 +9100,8 @@ soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8985,7 +9144,16 @@ soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Bohemia Interactive
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9028,7 +9196,8 @@ soldier[GER_Tropentarn_Officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Cannot find base aside for lop_faction_racs\data\lr_glass_baf.rvmat/Stage1/uvTransform/
 Cannot find base age2 for lop_faction_racs\data\lr_glass_baf.rvmat/Stage1/uvTransform//
@@ -9099,7 +9268,8 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9185,7 +9355,16 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9228,7 +9407,16 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9271,7 +9459,16 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9314,7 +9511,16 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10303,7 +10509,8 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=RDS_Civ
 |Author=reyhard
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10346,7 +10553,8 @@ Material lop_faction_racs\data\lr_special_baf_destruct.rvmat load failed
 |ModBase=RDS_Civ
 |Author=reyhard
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11083,7 +11291,8 @@ Deinitialized shape [Class: &quot;C_man_shorts_4_F_asia&quot;; Shape: &quot;a3\c
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11126,7 +11335,8 @@ Deinitialized shape [Class: &quot;C_man_shorts_4_F_asia&quot;; Shape: &quot;a3\c
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11169,7 +11379,8 @@ Deinitialized shape [Class: &quot;C_man_shorts_4_F_asia&quot;; Shape: &quot;a3\c
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11212,7 +11423,8 @@ Deinitialized shape [Class: &quot;C_man_shorts_4_F_asia&quot;; Shape: &quot;a3\c
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12981,7 +13193,8 @@ Deinitialized shape [Class: &quot;I_ghillie_ard_F&quot;; Shape: &quot;a3\charact
 |ModBase=RHSUSF
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13024,7 +13237,8 @@ Deinitialized shape [Class: &quot;I_ghillie_ard_F&quot;; Shape: &quot;a3\charact
 |ModBase=RHSUSF
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15538,7 +15752,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=camo_launcher,camo_tube
+|hiddenSel=camo_launcher
+camo_tube
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15581,7 +15796,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=camo_launcher,camo_tube
+|hiddenSel=camo_launcher
+camo_tube
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15624,7 +15840,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=camo_launcher,camo_tube
+|hiddenSel=camo_launcher
+camo_tube
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15796,7 +16013,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=camo_launcher,camo_tube
+|hiddenSel=camo_launcher
+camo_tube
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15839,7 +16057,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=camo_launcher,camo_tube
+|hiddenSel=camo_launcher
+camo_tube
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15882,7 +16101,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=camo_launcher,camo_tube
+|hiddenSel=camo_launcher
+camo_tube
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16308,7 +16528,8 @@ Deinitialized shape [Class: &quot;UnitCivHipster_B&quot;; Shape: &quot;corevunbi
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16417,7 +16638,8 @@ Deinitialized shape [Class: &quot;UnitTKLocalDress_B_E&quot;; Shape: &quot;corev
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;COREV_C_TKC_C_A&quot;; Shape: &quot;corevlitecharacterstka\characters\uniform_local4.p3d&quot;;]
 Deinitialized shape [Class: &quot;UnitTKLocalDress_C_A&quot;; Shape: &quot;corevlitecharacterstka\characters\uniform_local4.p3d&quot;;]
@@ -16479,7 +16701,8 @@ Deinitialized shape [Class: &quot;UnitTKLocalDress_D_E&quot;; Shape: &quot;corev
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16522,7 +16745,8 @@ Deinitialized shape [Class: &quot;UnitTKLocalDress_D_E&quot;; Shape: &quot;corev
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;COREV_C_TKC_E_A&quot;; Shape: &quot;corevlitecharacterstka\characters\uniform_local6.p3d&quot;;]
 Deinitialized shape [Class: &quot;UnitTKLocalDress_E_A&quot;; Shape: &quot;corevlitecharacterstka\characters\uniform_local6.p3d&quot;;]
@@ -16581,7 +16805,8 @@ Deinitialized shape [Class: &quot;COREV_C_TKC_Burqua_E&quot;; Shape: &quot;corev
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16624,7 +16849,9 @@ Deinitialized shape [Class: &quot;COREV_C_TKC_Burqua_E&quot;; Shape: &quot;corev
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;UnitTKLocalTactic_B&quot;; Shape: &quot;corevlitecharacterstka\characters\uniform_local8.p3d&quot;;]
 Deinitialized shape [Class: &quot;UnitTKLocalTactic_A&quot;; Shape: &quot;corevlitecharacterstka\characters\uniform_local8.p3d&quot;;]
@@ -16777,7 +17004,8 @@ Deinitialized shape [Class: &quot;UnitShirtMilitia_B&quot;; Shape: &quot;a3\char
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16820,7 +17048,8 @@ Deinitialized shape [Class: &quot;UnitShirtMilitia_B&quot;; Shape: &quot;a3\char
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;COREV_C_CDC_Outdoor_A&quot;; Shape: &quot;corevlitecharacters\characters\uniform_civoutdoor.p3d&quot;;]
 Deinitialized shape [Class: &quot;UnitCivOutdoor_A&quot;; Shape: &quot;corevlitecharacters\characters\uniform_civoutdoor.p3d&quot;;]
@@ -16870,7 +17099,8 @@ Deinitialized shape [Class: &quot;UnitCivOutdoor_D&quot;; Shape: &quot;corevlite
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16913,7 +17143,8 @@ Deinitialized shape [Class: &quot;UnitCivOutdoor_D&quot;; Shape: &quot;corevlite
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16956,7 +17187,8 @@ Deinitialized shape [Class: &quot;UnitCivOutdoor_D&quot;; Shape: &quot;corevlite
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;COREV_C_CDC_Metro_A&quot;; Shape: &quot;corevlitecharacters\characters\uniform_civmetro.p3d&quot;;]
 Deinitialized shape [Class: &quot;UnitCivMetro_A&quot;; Shape: &quot;corevlitecharacters\characters\uniform_civmetro.p3d&quot;;]
@@ -17040,7 +17272,8 @@ Deinitialized shape [Class: &quot;UnitMilitiaSport_A&quot;; Shape: &quot;corevli
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;COREV_C_CDC_Hunter_A&quot;; Shape: &quot;corevlitecharacters\characters\uniform_civhunter.p3d&quot;;]
 Deinitialized shape [Class: &quot;UnitCivHunter_A&quot;; Shape: &quot;corevlitecharacters\characters\uniform_civhunter.p3d&quot;;]
@@ -17380,7 +17613,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17423,7 +17657,10 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3,Camo_4
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
+Camo_4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17466,7 +17703,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17509,7 +17748,10 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3,Camo_4
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
+Camo_4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17552,7 +17794,10 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3,Camo_4
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
+Camo_4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17595,7 +17840,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17638,7 +17885,10 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3,Camo_4
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
+Camo_4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17681,7 +17931,10 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=Camo_1,Camo_2,Camo_3,Camo_4
+|hiddenSel=Camo_1
+Camo_2
+Camo_3
+Camo_4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17724,7 +17977,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17810,7 +18064,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17853,7 +18108,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17939,7 +18195,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17982,7 +18239,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=24
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18025,7 +18283,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=500
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18068,7 +18328,10 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=500
-|hiddenSel=camo1,camo2,camo3,camo4
+|hiddenSel=camo1
+camo2
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18111,7 +18374,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=500
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18154,7 +18419,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18197,7 +18464,8 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=400
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18240,7 +18508,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=800
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18283,7 +18553,9 @@ Deinitialized shape [Class: &quot;UnitCoveralls_B&quot;; Shape: &quot;a3\charact
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=700
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;I_soldier_F&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
 Deinitialized shape [Class: &quot;I_Soldier_GL_F&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
@@ -18369,7 +18641,8 @@ Deinitialized shape [Class: &quot;ARC_GER_Tropentarn_soldier_AR&quot;; Shape: &q
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=700
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;B_Soldier_lite_F&quot;; Shape: &quot;a3\characters_f\blufor\b_soldier_03.p3d&quot;;]
 Deinitialized shape [Class: &quot;B_Soldier_03_f&quot;; Shape: &quot;a3\characters_f\blufor\b_soldier_03.p3d&quot;;]
@@ -18441,7 +18714,9 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Villager_01&quot;; Shape: &quot;lo
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=600
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18484,7 +18759,10 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Villager_01&quot;; Shape: &quot;lo
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=600
-|hiddenSel=camo1,camo2,camo3,camo4
+|hiddenSel=camo1
+camo2
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18527,7 +18805,9 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Villager_01&quot;; Shape: &quot;lo
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=500
-|hiddenSel=Camo,Camo2,Camo3
+|hiddenSel=Camo
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18570,7 +18850,9 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Villager_01&quot;; Shape: &quot;lo
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=500
-|hiddenSel=Camo,Camo2,Camo3
+|hiddenSel=Camo
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18828,7 +19110,9 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Villager_01&quot;; Shape: &quot;lo
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=500
-|hiddenSel=Camo,Camo2,Camo3
+|hiddenSel=Camo
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -19044,7 +19328,8 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Worker_01&quot;; Shape: &quot;lop_
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_CHR_Civ_Rocker_01&quot;; Shape: &quot;lop_faction_chr_civ\rocker.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_CHR_Civ_Profiteer_01&quot;; Shape: &quot;lop_faction_chr_civ\profiteer.p3d&quot;;]
@@ -20213,7 +20498,8 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Functionary_01&quot;; Shape: &quot
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -20256,7 +20542,9 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Functionary_01&quot;; Shape: &quot
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -20299,7 +20587,8 @@ Deinitialized shape [Class: &quot;LOP_CHR_Civ_Functionary_01&quot;; Shape: &quot
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21138,7 +21427,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=150
-|hiddenSel=Camo1,Camo2,riotpolice
+|hiddenSel=Camo1
+Camo2
+riotpolice
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21181,7 +21472,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=150
-|hiddenSel=Camo1,Camo2,camo3
+|hiddenSel=Camo1
+Camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21224,7 +21517,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=150
-|hiddenSel=Camo1,Camo2,camo3
+|hiddenSel=Camo1
+Camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21267,7 +21562,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21310,7 +21606,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21353,7 +21651,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21396,7 +21696,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21439,7 +21740,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21482,7 +21784,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21525,7 +21828,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21568,7 +21872,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21611,7 +21916,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21654,7 +21960,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21697,7 +22004,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21740,7 +22048,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21783,7 +22092,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21826,7 +22136,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21869,7 +22180,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21912,7 +22224,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21955,7 +22268,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -21998,7 +22312,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22041,7 +22356,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22084,7 +22400,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22127,7 +22444,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22557,7 +22875,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22600,7 +22920,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22643,7 +22965,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22686,7 +23010,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22729,7 +23055,9 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22772,7 +23100,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22815,7 +23144,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22858,7 +23188,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22901,7 +23232,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22944,7 +23276,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -22987,7 +23320,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23030,7 +23364,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23073,7 +23408,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23116,7 +23452,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23159,7 +23496,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23202,7 +23540,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23245,7 +23584,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23288,7 +23628,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -23331,7 +23672,10 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=4
-|hiddenSel=camo,camo2,Number_a,Number_b
+|hiddenSel=camo
+camo2
+Number_a
+Number_b
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True
@@ -23374,7 +23718,10 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=kart
 |Author=Bohemia Interactive
 |Armor=4
-|hiddenSel=camo,camo2,Number_a,Number_b
+|hiddenSel=camo
+camo2
+Number_a
+Number_b
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True
@@ -23417,7 +23764,10 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=kart
 |Author=Bohemia Interactive
 |Armor=4
-|hiddenSel=camo,camo2,Number_a,Number_b
+|hiddenSel=camo
+camo2
+Number_a
+Number_b
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True
@@ -23460,7 +23810,10 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=kart
 |Author=Bohemia Interactive
 |Armor=4
-|hiddenSel=camo,camo2,Number_a,Number_b
+|hiddenSel=camo
+camo2
+Number_a
+Number_b
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True
@@ -23503,7 +23856,10 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=kart
 |Author=Bohemia Interactive
 |Armor=4
-|hiddenSel=camo,camo2,Number_a,Number_b
+|hiddenSel=camo
+camo2
+Number_a
+Number_b
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True
@@ -26900,7 +27256,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=A3_Paddle_Mod
 |Author=Bohemia Interactive
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -26943,7 +27300,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=A3_Paddle_Mod
 |Author=Bohemia Interactive
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -26986,7 +27344,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=A3_Paddle_Mod
 |Author=Bohemia Interactive
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27029,7 +27388,8 @@ Deinitialized shape [Class: &quot;RDS_Assistant&quot;; Shape: &quot;rds_a2port_c
 |ModBase=A3_Paddle_Mod
 |Author=Bohemia Interactive
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27250,7 +27610,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27293,7 +27654,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27336,7 +27698,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27379,7 +27742,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27422,7 +27786,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27465,7 +27830,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27508,7 +27874,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27551,7 +27918,8 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27809,7 +28177,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27895,7 +28265,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27938,7 +28318,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -27981,7 +28371,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28024,7 +28424,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28067,7 +28477,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28110,7 +28530,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28153,7 +28583,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28196,7 +28636,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28239,7 +28689,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28282,7 +28742,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28325,7 +28795,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28368,7 +28848,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28411,7 +28901,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28454,7 +28954,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28497,7 +29007,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28540,7 +29060,17 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=30
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28755,7 +29285,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28798,7 +29330,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28841,7 +29375,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28884,7 +29420,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28927,7 +29465,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -28970,7 +29510,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29013,7 +29555,9 @@ Deinitialized shape [Class: &quot;C_VirtualCurator_F&quot;; Shape: &quot;a3\char
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -29065,7 +29609,9 @@ soldier[rhs_msv_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -29117,7 +29663,9 @@ soldier[rhs_msv_machinegunner]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29160,7 +29708,9 @@ soldier[rhs_msv_machinegunner]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -29212,7 +29762,9 @@ soldier[rhs_msv_at]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -29264,7 +29816,9 @@ soldier[rhs_msv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29307,7 +29861,9 @@ soldier[rhs_msv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29350,7 +29906,9 @@ soldier[rhs_msv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -29397,7 +29955,9 @@ soldier[rhs_msv_officer_armored]:Some of magazines weren&apos;t stored in soldie
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -29449,7 +30009,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29492,7 +30054,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29535,7 +30099,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29578,7 +30144,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29621,7 +30189,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29664,7 +30234,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29707,7 +30279,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29750,7 +30324,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29793,7 +30369,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29836,7 +30414,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29879,7 +30459,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29922,7 +30504,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -29965,7 +30549,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30008,7 +30594,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30051,7 +30639,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30094,7 +30684,9 @@ soldier[rhs_msv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_emr_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_emr_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -30146,7 +30738,9 @@ soldier[rhs_msv_emr_grenadier_rpg]:Some of magazines weren&apos;t stored in sold
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_emr_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_emr_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -30198,7 +30792,9 @@ soldier[rhs_msv_emr_machinegunner]:Some of magazines weren&apos;t stored in sold
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30241,7 +30837,9 @@ soldier[rhs_msv_emr_machinegunner]:Some of magazines weren&apos;t stored in sold
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_emr_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_emr_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -30293,7 +30891,9 @@ soldier[rhs_msv_emr_at]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_emr_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_emr_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -30345,7 +30945,9 @@ soldier[rhs_msv_emr_aa]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30388,7 +30990,9 @@ soldier[rhs_msv_emr_aa]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30431,7 +31035,9 @@ soldier[rhs_msv_emr_aa]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_emr_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_emr_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -30478,7 +31084,9 @@ soldier[rhs_msv_emr_officer_armored]:Some of magazines weren&apos;t stored in so
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -30530,7 +31138,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30573,7 +31183,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30616,7 +31228,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30659,7 +31273,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30702,7 +31318,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30745,7 +31363,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30788,7 +31408,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30831,7 +31453,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30874,7 +31498,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30917,7 +31543,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -30960,7 +31588,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31003,7 +31633,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31046,7 +31678,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31089,7 +31723,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31132,7 +31768,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31175,7 +31813,9 @@ soldier[rhs_msv_emr_officer]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -31227,7 +31867,9 @@ soldier[rhs_vdv_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -31279,7 +31921,9 @@ soldier[rhs_vdv_machinegunner]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31322,7 +31966,9 @@ soldier[rhs_vdv_machinegunner]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -31374,7 +32020,9 @@ soldier[rhs_vdv_at]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -31426,7 +32074,9 @@ soldier[rhs_vdv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31469,7 +32119,9 @@ soldier[rhs_vdv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31512,7 +32164,9 @@ soldier[rhs_vdv_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uni
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -31559,7 +32213,9 @@ soldier[rhs_vdv_officer_armored]:Some of magazines weren&apos;t stored in soldie
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -31611,7 +32267,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31654,7 +32312,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31697,7 +32357,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31740,7 +32402,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31783,7 +32447,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31826,7 +32492,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31869,7 +32537,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31912,7 +32582,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31955,7 +32627,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -31998,7 +32672,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32041,7 +32717,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32084,7 +32762,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32127,7 +32807,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32170,7 +32852,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32213,7 +32897,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32256,7 +32942,9 @@ soldier[rhs_vdv_officer]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_flora_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_flora_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -32308,7 +32996,9 @@ soldier[rhs_vdv_flora_grenadier_rpg]:Some of magazines weren&apos;t stored in so
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_flora_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_flora_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -32360,7 +33050,9 @@ soldier[rhs_vdv_flora_machinegunner]:Some of magazines weren&apos;t stored in so
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32403,7 +33095,9 @@ soldier[rhs_vdv_flora_machinegunner]:Some of magazines weren&apos;t stored in so
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_flora_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_flora_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -32455,7 +33149,9 @@ soldier[rhs_vdv_flora_at]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_flora_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_flora_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -32507,7 +33203,9 @@ soldier[rhs_vdv_flora_aa]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32550,7 +33248,9 @@ soldier[rhs_vdv_flora_aa]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32593,7 +33293,9 @@ soldier[rhs_vdv_flora_aa]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_flora_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_flora_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -32640,7 +33342,9 @@ soldier[rhs_vdv_flora_officer_armored]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -32692,7 +33396,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32735,7 +33441,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32778,7 +33486,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32821,7 +33531,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32864,7 +33576,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32907,7 +33621,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32950,7 +33666,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32993,7 +33711,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33036,7 +33756,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33079,7 +33801,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33122,7 +33846,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33165,7 +33891,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33208,7 +33936,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33251,7 +33981,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33294,7 +34026,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33337,7 +34071,9 @@ soldier[rhs_vdv_flora_officer]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_mflora_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_mflora_grenadier_rpg]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33389,7 +34125,9 @@ soldier[rhs_vdv_mflora_grenadier_rpg]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33432,7 +34170,9 @@ soldier[rhs_vdv_mflora_grenadier_rpg]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33475,7 +34215,9 @@ soldier[rhs_vdv_mflora_grenadier_rpg]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_mflora_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_mflora_at]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33527,7 +34269,9 @@ soldier[rhs_vdv_mflora_at]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_mflora_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_mflora_aa]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33579,7 +34323,9 @@ soldier[rhs_vdv_mflora_aa]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33622,7 +34368,9 @@ soldier[rhs_vdv_mflora_aa]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33665,7 +34413,9 @@ soldier[rhs_vdv_mflora_aa]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_mflora_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_mflora_officer_armored]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33712,7 +34462,9 @@ soldier[rhs_vdv_mflora_officer_armored]:Some of magazines weren&apos;t stored in
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33764,7 +34516,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33807,7 +34561,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33850,7 +34606,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33893,7 +34651,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33936,7 +34696,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33979,7 +34741,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34022,7 +34786,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34065,7 +34831,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34108,7 +34876,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34151,7 +34921,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34194,7 +34966,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34237,7 +35011,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34409,7 +35185,9 @@ soldier[rhs_vdv_mflora_officer]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34453,7 +35231,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34497,7 +35277,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34541,7 +35323,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34585,7 +35369,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34629,7 +35416,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34673,7 +35463,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34716,7 +35509,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34759,7 +35555,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34803,7 +35602,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34847,7 +35649,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34891,7 +35696,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34934,7 +35742,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -34978,7 +35789,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_army_ocp_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_army_ocp_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35025,7 +35839,10 @@ soldier[rhsusf_army_ocp_machinegunner]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35069,7 +35886,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35113,7 +35933,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35157,7 +35980,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35201,7 +36027,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35245,7 +36074,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35289,7 +36121,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35343,7 +36178,10 @@ soldier[rhsusf_army_ocp_javelin]:Some of magazines weren&apos;t stored in soldie
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35397,7 +36235,10 @@ soldier[rhsusf_army_ocp_aa]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35440,7 +36281,10 @@ soldier[rhsusf_army_ocp_aa]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35484,7 +36328,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35528,7 +36375,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35572,7 +36422,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35615,7 +36468,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35658,7 +36514,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35707,7 +36566,10 @@ soldier[rhsusf_army_ocp_crewman]:Some of magazines weren&apos;t stored in soldie
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35756,7 +36618,10 @@ soldier[rhsusf_army_ocp_combatcrewman]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35805,7 +36670,10 @@ soldier[rhsusf_army_ocp_driver]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35859,7 +36727,10 @@ soldier[rhsusf_army_ocp_helipilot]:Some of magazines weren&apos;t stored in sold
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35908,7 +36779,9 @@ soldier[rhsusf_army_ocp_helicrew]:Some of magazines weren&apos;t stored in soldi
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35952,7 +36825,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -35996,7 +36871,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36040,7 +36917,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36084,7 +36963,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36128,7 +37010,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36172,7 +37057,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36215,7 +37103,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36258,7 +37149,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36302,7 +37196,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36346,7 +37243,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36390,7 +37290,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36433,7 +37336,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36477,7 +37383,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_army_ucp_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_army_ucp_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -36524,7 +37433,10 @@ soldier[rhsusf_army_ucp_machinegunner]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36568,7 +37480,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36612,7 +37527,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36656,7 +37574,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36700,7 +37621,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36754,7 +37678,10 @@ soldier[rhsusf_army_ucp_javelin]:Some of magazines weren&apos;t stored in soldie
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36808,7 +37735,10 @@ soldier[rhsusf_army_ucp_aa]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36851,7 +37781,10 @@ soldier[rhsusf_army_ucp_aa]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36895,7 +37828,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36939,7 +37875,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -36983,7 +37922,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37026,7 +37968,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37069,7 +38014,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37113,7 +38061,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37157,7 +38108,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37206,7 +38160,10 @@ soldier[rhsusf_army_ucp_crewman]:Some of magazines weren&apos;t stored in soldie
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37255,7 +38212,10 @@ soldier[rhsusf_army_ucp_combatcrewman]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37309,7 +38269,10 @@ soldier[rhsusf_army_ucp_driver]:Some of magazines weren&apos;t stored in soldier
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37363,7 +38326,10 @@ soldier[rhsusf_army_ucp_helipilot]:Some of magazines weren&apos;t stored in sold
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo1,camo2,camo3,insignia
+|hiddenSel=camo1
+camo2
+camo3
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37412,7 +38378,8 @@ soldier[rhsusf_army_ucp_helicrew]:Some of magazines weren&apos;t stored in soldi
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37455,7 +38422,8 @@ soldier[rhsusf_army_ucp_helicrew]:Some of magazines weren&apos;t stored in soldi
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37499,7 +38467,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37542,7 +38511,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37585,7 +38555,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37628,7 +38599,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37671,7 +38643,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37715,7 +38688,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37758,7 +38732,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37801,7 +38776,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_usmc_marpat_wd_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_usmc_marpat_wd_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -37848,7 +38824,8 @@ soldier[rhsusf_usmc_marpat_wd_machinegunner]:Some of magazines weren&apos;t stor
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37891,7 +38868,8 @@ soldier[rhsusf_usmc_marpat_wd_machinegunner]:Some of magazines weren&apos;t stor
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -37935,7 +38913,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37978,7 +38957,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38022,7 +39002,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38066,7 +39047,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38110,7 +39092,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_usmc_marpat_wd_javelin]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_usmc_marpat_wd_javelin]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -38162,7 +39145,8 @@ soldier[rhsusf_usmc_marpat_wd_javelin]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_usmc_marpat_wd_stinger]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_usmc_marpat_wd_stinger]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -38214,7 +39198,8 @@ soldier[rhsusf_usmc_marpat_wd_stinger]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38257,7 +39242,8 @@ soldier[rhsusf_usmc_marpat_wd_stinger]:Some of magazines weren&apos;t stored in 
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38301,7 +39287,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38344,7 +39331,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38387,7 +39375,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38430,7 +39419,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38473,7 +39463,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38517,7 +39508,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38561,7 +39553,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38605,7 +39598,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38649,7 +39643,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38693,7 +39688,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38736,7 +39732,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38779,7 +39776,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38823,7 +39821,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38866,7 +39865,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38909,7 +39909,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38952,7 +39953,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -38996,7 +39998,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39039,7 +40042,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39082,7 +40086,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_usmc_marpat_d_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_usmc_marpat_d_machinegunner]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -39129,7 +40134,8 @@ soldier[rhsusf_usmc_marpat_d_machinegunner]:Some of magazines weren&apos;t store
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39172,7 +40178,8 @@ soldier[rhsusf_usmc_marpat_d_machinegunner]:Some of magazines weren&apos;t store
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39216,7 +40223,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39259,7 +40267,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39303,7 +40312,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39347,7 +40357,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39391,7 +40402,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39434,7 +40446,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39478,7 +40491,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39521,7 +40535,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_usmc_marpat_d_javelin]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_usmc_marpat_d_javelin]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -39573,7 +40588,8 @@ soldier[rhsusf_usmc_marpat_d_javelin]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_usmc_marpat_d_stinger]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_usmc_marpat_d_stinger]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -39625,7 +40641,8 @@ soldier[rhsusf_usmc_marpat_d_stinger]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39668,7 +40685,8 @@ soldier[rhsusf_usmc_marpat_d_stinger]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39711,7 +40729,8 @@ soldier[rhsusf_usmc_marpat_d_stinger]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39754,7 +40773,8 @@ soldier[rhsusf_usmc_marpat_d_stinger]:Some of magazines weren&apos;t stored in s
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39798,7 +40818,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39842,7 +40863,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39886,7 +40908,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39934,7 +40957,8 @@ Deinitialized shape [Class: &quot;rhs_pilot_transport_heli&quot;; Shape: &quot;r
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -39978,7 +41002,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -40022,7 +41047,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -40066,7 +41092,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_airforce_jetpilot]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_airforce_jetpilot]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40118,7 +41145,8 @@ soldier[rhsusf_airforce_jetpilot]:Some of magazines weren&apos;t stored in soldi
 |ModBase=RHSUSF
 |Author=Red Hammer Studios
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[rhsusf_airforce_pilot]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[rhsusf_airforce_pilot]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40213,7 +41241,20 @@ soldier[rhsusf_airforce_pilot]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=200
-|hiddenSel=camo1,camo2,camo3,camo4,camo5,camo6,n1,n2,n3,i1,i2,i3,i4,i5
+|hiddenSel=camo1
+camo2
+camo3
+camo4
+camo5
+camo6
+n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
 |genLogErr=True
 |logErr=rhs_bmp1_vdv: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 rhs_bmp1_vdv: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -40310,7 +41351,20 @@ Deinitialized shape [Class: &quot;rhs_msv_emr_combatcrew&quot;; Shape: &quot;rhs
 |ModBase=RHSAFRF
 |Author=Red Hammer Studios
 |Armor=260
-|hiddenSel=camo1,camo2,camo3,camo4,camo5,camo6,n1,n2,n3,i1,i2,i3,i4,i5
+|hiddenSel=camo1
+camo2
+camo3
+camo4
+camo5
+camo6
+n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
 |genLogErr=True
 |logErr=rhs_bmp2e_vdv: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 rhs_bmp2e_vdv: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -40359,7 +41413,10 @@ rhs_bmp2e_vdv: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=RHSAFRF
 |Author=RHS
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40402,7 +41459,10 @@ rhs_bmp2e_vdv: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=RHSAFRF
 |Author=RHS
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40445,7 +41505,9 @@ rhs_bmp2e_vdv: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=250
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40488,7 +41550,9 @@ rhs_bmp2e_vdv: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=O_APC_Wheeled_02_rcws_F: HatchCommander - unknown animation source hatchCommander
 O_APC_Wheeled_02_rcws_F: ObsTurret - unknown animation source obsTurret
@@ -40533,7 +41597,9 @@ O_APC_Wheeled_02_rcws_F: ObsGun - unknown animation source obsGun
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=900
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;rhs_vdv_rifleman&quot;; Shape: &quot;rhsafrf\addons\rhs_infantry\rhs_vdv_base.p3d&quot;;]
 Deinitialized shape [Class: &quot;rhs_vdv_efreitor&quot;; Shape: &quot;rhsafrf\addons\rhs_infantry\rhs_vdv_base.p3d&quot;;]
@@ -40647,7 +41713,10 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=250
-|hiddenSel=camo1,camo2,camo3,camo4
+|hiddenSel=camo1
+camo2
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40690,7 +41759,9 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40733,7 +41804,9 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40776,7 +41849,9 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40819,7 +41894,9 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40862,7 +41939,9 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40905,7 +41984,9 @@ Deinitialized shape [Class: &quot;rhs_vdv_mflora_combatcrew&quot;; Shape: &quot;
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=30
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41958,7 +43039,8 @@ Deinitialized shape [Class: &quot;rhsusf_army_ucp_helicrew&quot;; Shape: &quot;r
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42001,7 +43083,8 @@ Deinitialized shape [Class: &quot;rhsusf_army_ucp_helicrew&quot;; Shape: &quot;r
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42044,7 +43127,8 @@ Deinitialized shape [Class: &quot;rhsusf_army_ucp_helicrew&quot;; Shape: &quot;r
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42087,7 +43171,8 @@ Deinitialized shape [Class: &quot;rhsusf_army_ucp_helicrew&quot;; Shape: &quot;r
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42130,7 +43215,8 @@ Deinitialized shape [Class: &quot;rhsusf_army_ucp_helicrew&quot;; Shape: &quot;r
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42173,7 +43259,8 @@ Deinitialized shape [Class: &quot;rhsusf_army_ucp_helicrew&quot;; Shape: &quot;r
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42450,7 +43537,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42493,7 +43582,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42536,7 +43627,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42579,7 +43672,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42622,7 +43717,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42665,7 +43762,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42708,7 +43806,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42751,7 +43850,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42794,7 +43894,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42837,7 +43938,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42880,7 +43982,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42923,7 +44026,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42966,7 +44070,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43009,7 +44114,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43052,7 +44158,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43095,7 +44202,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43138,7 +44246,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43181,7 +44290,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43224,7 +44334,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43267,7 +44378,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43310,7 +44422,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43353,7 +44466,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43396,7 +44510,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43439,7 +44554,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=150
-|hiddenSel=Camo1,Camo2,riotpolice
+|hiddenSel=Camo1
+Camo2
+riotpolice
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43482,7 +44599,9 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=150
-|hiddenSel=Camo1,Camo2,riotpolice
+|hiddenSel=Camo1
+Camo2
+riotpolice
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43525,7 +44644,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43568,7 +44688,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43611,7 +44732,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43654,7 +44776,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43697,7 +44820,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43740,7 +44864,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43783,7 +44908,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43826,7 +44952,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43869,7 +44996,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43912,7 +45040,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43955,7 +45084,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43998,7 +45128,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=300
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44041,7 +45172,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44084,7 +45216,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44127,7 +45260,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44170,7 +45304,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44213,7 +45348,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44256,7 +45392,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44299,7 +45436,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44342,7 +45480,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44385,7 +45524,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44428,7 +45568,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44471,7 +45612,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44514,7 +45656,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44557,7 +45700,8 @@ Deinitialized shape [Class: &quot;B_Soldier_04_f&quot;; Shape: &quot;a3\characte
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=True
 |logErr=Render target memory points PIP1_pos &amp; PIP1_dir not found.
 Render target memory points PIP2_pos &amp; PIP2_dir not found.
@@ -44602,7 +45746,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=True
 |logErr=Render target memory points PIP1_pos &amp; PIP1_dir not found.
 Render target memory points PIP2_pos &amp; PIP2_dir not found.
@@ -44647,7 +45792,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44690,7 +45836,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44733,7 +45880,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44776,7 +45924,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44819,7 +45968,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44862,7 +46012,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44905,7 +46056,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44948,7 +46100,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -44991,7 +46144,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45034,7 +46188,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45077,7 +46232,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45120,7 +46276,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45163,7 +46320,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45206,7 +46364,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45249,7 +46408,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -45292,7 +46452,8 @@ Render target memory points PIP3_pos &amp; PIP3_dir not found.
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=100
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True

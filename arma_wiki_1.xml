@@ -12288,7 +12288,10 @@ Cannot create non-ai vehicle Sound_Music,
 |ModBase=C185
 |Author=Bohemia Interactive
 |Armor=20
-|hiddenSel=texFuse,texWing,texMisc,RPod
+|hiddenSel=texFuse
+texWing
+texMisc
+RPod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12331,7 +12334,10 @@ Cannot create non-ai vehicle Sound_Music,
 |ModBase=C185
 |Author=Bohemia Interactive
 |Armor=20
-|hiddenSel=texFuse,texWing,texMisc,RPod
+|hiddenSel=texFuse
+texWing
+texMisc
+RPod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12374,7 +12380,10 @@ Cannot create non-ai vehicle Sound_Music,
 |ModBase=C185
 |Author=Bohemia Interactive
 |Armor=20
-|hiddenSel=texFuse,texWing,texMisc,RPod
+|hiddenSel=texFuse
+texWing
+texMisc
+RPod
 |genLogErr=False
 |logErr=
 |createable=True

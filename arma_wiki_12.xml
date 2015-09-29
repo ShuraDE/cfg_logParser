@@ -12,7 +12,16 @@
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -55,7 +64,16 @@
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -98,7 +116,16 @@
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -141,7 +168,10 @@
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -184,7 +214,10 @@
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -227,7 +260,20 @@
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=300
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_ChDKZ_BMP2D: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_ChDKZ_BMP2D: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -276,7 +322,20 @@ LOP_ChDKZ_BMP2D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=260
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_ChDKZ_BMP2: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_ChDKZ_BMP2: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -327,7 +386,20 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_Commander&quot;; Shape: &qu
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_ChDKZ_BMP1: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_ChDKZ_BMP1: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -376,7 +448,20 @@ LOP_ChDKZ_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=300
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_ChDKZ_BMP1D: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_ChDKZ_BMP1D: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -427,7 +512,9 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_SL&quot;; Shape: &quot;a3\c
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_MG&quot;; Shape: &quot;lop_faction_chdkz\ins_soldier_2.p3d&quot;;]
 |createable=True
@@ -470,7 +557,29 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_SL&quot;; Shape: &quot;a3\c
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=LOP_ChDKZ_BTR60: HatchCommander - unknown animation source hatchCommander
 Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_TL&quot;; Shape: &quot;lop_faction_chdkz\ins_soldier_com.p3d&quot;;]
@@ -519,7 +628,29 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_Rifleman&quot;; Shape: &quo
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_Pilot&quot;; Shape: &quot;a3\characters_f\common\coveralls.p3d&quot;;]
@@ -607,7 +738,8 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_GL&quot;; Shape: &quot;lop_
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -650,7 +782,8 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_GL&quot;; Shape: &quot;lop_
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -693,7 +826,8 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_GL&quot;; Shape: &quot;lop_
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -736,7 +870,8 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_GL&quot;; Shape: &quot;lop_
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -779,7 +914,8 @@ Deinitialized shape [Class: &quot;LOP_ChDKZ_Infantry_GL&quot;; Shape: &quot;lop_
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -831,7 +967,8 @@ soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -874,7 +1011,8 @@ soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -917,7 +1055,8 @@ soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -960,7 +1099,8 @@ soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1003,7 +1143,8 @@ soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1046,7 +1187,8 @@ soldier[LOP_IA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -1090,7 +1232,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1133,7 +1276,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1176,7 +1320,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1219,7 +1364,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1262,7 +1409,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1305,7 +1454,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1348,7 +1499,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1391,7 +1544,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2,Camo3
+|hiddenSel=Camo1
+Camo2
+Camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1434,7 +1589,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1477,7 +1633,16 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1520,7 +1685,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1563,7 +1729,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1606,7 +1773,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1649,7 +1817,18 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,wheels,mainbody,hood gratting,interior_wood,4drcargocomplete,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+wheels
+mainbody
+hood gratting
+interior_wood
+4drcargocomplete
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1692,7 +1871,19 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,A2,wheels,mainbody,hood gratting,camo2,camo3,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+A2
+wheels
+mainbody
+hood gratting
+camo2
+camo3
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1735,7 +1926,19 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,A2,wheels,mainbody,hood gratting,camo2,camo3,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+A2
+wheels
+mainbody
+hood gratting
+camo2
+camo3
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_IA_Infantry_TL&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_IA_Infantry_Rifleman&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
@@ -1789,7 +1992,18 @@ Deinitialized shape [Class: &quot;LOP_IA_Infantry_MG&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,A2,wheels,mainbody,hood gratting,camo2,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+A2
+wheels
+mainbody
+hood gratting
+camo2
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1832,7 +2046,12 @@ Deinitialized shape [Class: &quot;LOP_IA_Infantry_MG&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=600
-|hiddenSel=n1,n2,n3,i1,i2,i3
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
 |genLogErr=True
 |logErr=LOP_IA_M1A1_AIM_D: Offset - unknown animation source Offset
 Type LOP_IA_M1A1_AIM_D, model rhsusf\addons\rhsusf_m1a1\m1a1aim_d.p3d - structure of turrets in config does not match the skeleton
@@ -1878,7 +2097,8 @@ rhsusf\addons\rhsusf_m1a1\loaderspintle\pintle_magazine.p3d: vehicle, config cla
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -1921,7 +2141,20 @@ rhsusf\addons\rhsusf_m1a1\loaderspintle\pintle_magazine.p3d: vehicle, config cla
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=260
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_IA_BMP2: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_IA_BMP2: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -1970,7 +2203,20 @@ LOP_IA_BMP2: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_IA_BMP1: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_IA_BMP1: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -2019,7 +2265,9 @@ LOP_IA_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2374,7 +2622,8 @@ File lop_faction_ists\scripts\Random.sqf, line 20
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -2426,7 +2675,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2469,7 +2719,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2512,7 +2763,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2555,7 +2807,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2598,7 +2851,18 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,wheels,mainbody,hood gratting,interior_wood,4drcargocomplete,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+wheels
+mainbody
+hood gratting
+interior_wood
+4drcargocomplete
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2641,7 +2905,19 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,A2,wheels,mainbody,hood gratting,camo2,camo3,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+A2
+wheels
+mainbody
+hood gratting
+camo2
+camo3
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2684,7 +2960,19 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,A2,wheels,mainbody,hood gratting,camo2,camo3,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+A2
+wheels
+mainbody
+hood gratting
+camo2
+camo3
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2727,7 +3015,18 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=exterior,interior,A2,wheels,mainbody,hood gratting,camo2,unitdecals_1,unitdecals_2,ind_wait,ind_brake,ind_highbeam
+|hiddenSel=exterior
+interior
+A2
+wheels
+mainbody
+hood gratting
+camo2
+unitdecals_1
+unitdecals_2
+ind_wait
+ind_brake
+ind_highbeam
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2770,7 +3069,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2813,7 +3113,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2856,7 +3157,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2899,7 +3201,8 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2942,7 +3245,9 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -2985,7 +3290,20 @@ soldier[LOP_ISTS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=260
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_ISTS_BMP2: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_ISTS_BMP2: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -3043,7 +3361,20 @@ Deinitialized shape [Class: &quot;LOP_ISTS_Infantry_Corpsman&quot;; Shape: &quot
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_ISTS_BMP1: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_ISTS_BMP1: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -3092,7 +3423,9 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3135,7 +3468,29 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=LOP_ISTS_BTR60: HatchCommander - unknown animation source hatchCommander
 |createable=True
@@ -3178,7 +3533,10 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3221,7 +3579,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3393,7 +3752,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3436,7 +3796,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3479,7 +3840,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3522,7 +3884,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3565,7 +3928,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3608,7 +3972,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3651,7 +4016,8 @@ LOP_ISTS_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -3703,7 +4069,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3746,7 +4113,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3789,7 +4157,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3832,7 +4201,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3875,7 +4245,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3918,7 +4289,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -3961,7 +4333,8 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4004,7 +4377,9 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4219,7 +4594,9 @@ soldier[LOP_NAPA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,Camo2,insignia
+|hiddenSel=Camo
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4349,7 +4726,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_TL&quot;; Shape: &quot;lop_faction_napa\soldier_com.p3d&quot;;]
 bipod_hide - unknown animation source hasBipod
@@ -4396,7 +4774,8 @@ Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Corpsman&quot;; Shape: &quot
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4439,7 +4818,8 @@ Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Corpsman&quot;; Shape: &quot
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -4483,7 +4863,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -4527,7 +4908,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_AR&quot;; Shape: &quot;lop_faction_napa\soldier_mg.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Rifleman&quot;; Shape: &quot;lop_faction_napa\soldier.p3d&quot;;]
@@ -4571,7 +4953,8 @@ Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Rifleman&quot;; Shape: &quot
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4614,7 +4997,8 @@ Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Rifleman&quot;; Shape: &quot
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4657,7 +5041,8 @@ Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Rifleman&quot;; Shape: &quot
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -4701,7 +5086,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4744,7 +5130,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4787,7 +5174,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=ERROR: Switch uniform! Uniform is not supported by soldier
 Uniform U_Marshal is not allowed for soldier class LOP_PMC_Infantry_VIP
@@ -4934,7 +5322,8 @@ Uniform U_C_Journalist is not allowed for soldier class LOP_PMC_Infantry_Press
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -4977,7 +5366,8 @@ Uniform U_C_Journalist is not allowed for soldier class LOP_PMC_Infantry_Press
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5020,7 +5410,8 @@ Uniform U_C_Journalist is not allowed for soldier class LOP_PMC_Infantry_Press
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5192,7 +5583,13 @@ Uniform U_C_Journalist is not allowed for soldier class LOP_PMC_Infantry_Press
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2,tail_decals
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
+tail_decals
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_PMC_Infantry_AT_Asst&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_02.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_PMC_Infantry_MG_Asst&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_02.p3d&quot;;]
@@ -5410,7 +5807,8 @@ Deinitialized shape [Class: &quot;LOP_PMC_Infantry_TL&quot;; Shape: &quot;a3\cha
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5453,7 +5851,8 @@ Deinitialized shape [Class: &quot;LOP_PMC_Infantry_TL&quot;; Shape: &quot;a3\cha
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5496,7 +5895,8 @@ Deinitialized shape [Class: &quot;LOP_PMC_Infantry_TL&quot;; Shape: &quot;a3\cha
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_PMC_Infantry_Rifleman&quot;; Shape: &quot;a3\characters_f_gamma\guerrilla\ig_guerrilla1_1.p3d&quot;;]
 |createable=True
@@ -5539,7 +5939,8 @@ Deinitialized shape [Class: &quot;LOP_PMC_Infantry_TL&quot;; Shape: &quot;a3\cha
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_PMC_Infantry_Pilot&quot;; Shape: &quot;a3\characters_f\common\coveralls.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_PMC_Infantry_VIP&quot;; Shape: &quot;a3\characters_f\civil\c_poloshirtpants.p3d&quot;;]
@@ -5586,7 +5987,8 @@ Deinitialized shape [Class: &quot;C_journalist_F&quot;; Shape: &quot;a3\characte
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_RACS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_RACS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -5638,7 +6040,8 @@ soldier[LOP_RACS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5681,7 +6084,8 @@ soldier[LOP_RACS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5724,7 +6128,8 @@ soldier[LOP_RACS_Infantry_AT]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_PMC_Infantry_SL&quot;; Shape: &quot;a3\characters_f\civil\c_poor.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_PMC_Infantry_Cam&quot;; Shape: &quot;a3\characters_f\civil\c_poor.p3d&quot;;]
@@ -5769,7 +6174,8 @@ Deinitialized shape [Class: &quot;C_man_p_fugitive_F&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5812,7 +6218,8 @@ Deinitialized shape [Class: &quot;C_man_p_fugitive_F&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5855,7 +6262,8 @@ Deinitialized shape [Class: &quot;C_man_p_fugitive_F&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -5899,7 +6307,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5942,7 +6351,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -5985,7 +6395,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=80
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6028,7 +6439,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6071,7 +6483,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6114,7 +6527,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6157,7 +6571,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6286,7 +6702,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=60
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=True
 |logErr=bipod_hide - unknown animation source hasBipod
 bipod_unhide - unknown animation source hasBipod
@@ -6330,7 +6748,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6373,7 +6794,8 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6545,7 +6967,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob,insignia
+|hiddenSel=camo1
+camo2
+camob
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6588,7 +7013,10 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob,insignia
+|hiddenSel=camo1
+camo2
+camob
+insignia
 |genLogErr=True
 |logErr=Warning Message: Cannot load texture lop_faction_sla\data\cdf_fatigue_co.paa.
 |createable=True
@@ -6631,7 +7059,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6674,7 +7104,9 @@ bipod_unhide - unknown animation source hasBipod
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_AT&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_NAPA_Infantry_Marksman&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_01.p3d&quot;;]
@@ -6733,7 +7165,9 @@ Deinitialized shape [Class: &quot;LOP_RACS_Infantry_Pilot&quot;; Shape: &quot;a3
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_RACS_Infantry_SL&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_02.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_RACS_Infantry_Rifleman&quot;; Shape: &quot;a3\characters_f_beta\indep\ia_soldier_02.p3d&quot;;]
@@ -6780,7 +7214,9 @@ Deinitialized shape [Class: &quot;LOP_RACS_Infantry_MG&quot;; Shape: &quot;a3\ch
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6823,7 +7259,9 @@ Deinitialized shape [Class: &quot;LOP_RACS_Infantry_MG&quot;; Shape: &quot;a3\ch
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6866,7 +7304,9 @@ Deinitialized shape [Class: &quot;LOP_RACS_Infantry_MG&quot;; Shape: &quot;a3\ch
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -6909,7 +7349,9 @@ Deinitialized shape [Class: &quot;LOP_RACS_Infantry_MG&quot;; Shape: &quot;a3\ch
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -6961,7 +7403,9 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7004,7 +7448,9 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7047,7 +7493,9 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7090,7 +7538,9 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7133,7 +7583,9 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7176,7 +7628,9 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7219,7 +7673,12 @@ soldier[LOP_SLA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
 |genLogErr=True
 |logErr=LOP_SLA_Mi8MT_Cargo: MainTurret - unknown animation source mainTurret
 LOP_SLA_Mi8MT_Cargo: MainGun - unknown animation source mainGun
@@ -7265,7 +7724,12 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7308,7 +7772,12 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7351,7 +7820,16 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7394,7 +7872,16 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7437,7 +7924,16 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7480,7 +7976,16 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7523,7 +8028,16 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7566,7 +8080,10 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7609,7 +8126,10 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7652,7 +8172,20 @@ LOP_SLA_Mi8MT_Cargo: Gun_2 - unknown animation source Gun_2
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=300
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_SLA_BMP2D: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_SLA_BMP2D: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -7701,7 +8234,20 @@ LOP_SLA_BMP2D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=260
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_SLA_BMP2: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_SLA_BMP2: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -7765,7 +8311,20 @@ Deinitialized shape [Class: &quot;LOP_SLA_Infantry_Engineer&quot;; Shape: &quot;
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_SLA_BMP1: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_SLA_BMP1: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -7814,7 +8373,20 @@ LOP_SLA_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=300
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_SLA_BMP1D: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_SLA_BMP1D: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -7863,7 +8435,12 @@ LOP_SLA_BMP1D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7906,7 +8483,29 @@ LOP_SLA_BMP1D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=LOP_SLA_BTR60: HatchCommander - unknown animation source hatchCommander
 |createable=True
@@ -7949,7 +8548,29 @@ LOP_SLA_BMP1D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True
@@ -8235,7 +8856,8 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=50
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=True
 |logErr=Inventory item with given name: [] not found
 |createable=True
@@ -8278,7 +8900,8 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=30
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8364,7 +8987,16 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8407,7 +9039,16 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8450,7 +9091,16 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8493,7 +9143,16 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8536,7 +9195,8 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8579,7 +9239,8 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_01&quot;; Shape: &quot;lop_faction_tak_civ\tak_civil01.p3d&quot;;]
 |createable=True
@@ -8622,7 +9283,8 @@ Generating ST on the fly is very slow
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8717,7 +9379,8 @@ soldier[LOP_UA_Officer]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_UA_Infantry_MG]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_UA_Infantry_MG]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8769,7 +9432,8 @@ soldier[LOP_UA_Infantry_MG]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8812,7 +9476,8 @@ soldier[LOP_UA_Infantry_MG]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_UA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_UA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8864,7 +9529,8 @@ soldier[LOP_UA_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_02&quot;; Shape: &quot;lop_faction_tak_civ\tak_civil02.p3d&quot;;]
 Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_faction_tak_civ\tak_civil06.p3d&quot;;]
@@ -8908,7 +9574,8 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8951,7 +9618,8 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8994,7 +9662,8 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9037,7 +9706,8 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9080,7 +9750,8 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9123,7 +9794,8 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9166,7 +9838,16 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9209,7 +9890,16 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9252,7 +9942,17 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4,camo3
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
+camo3
 |genLogErr=True
 |logErr=Deinitialized shape [Class: &quot;LOP_UA_Officer&quot;; Shape: &quot;a3\characters_f_gamma\guerrilla\ig_guerrilla3_1.p3d&quot;;]
 |createable=True
@@ -9295,7 +9995,16 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9338,7 +10047,16 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9381,7 +10099,10 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9424,7 +10145,10 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9467,7 +10191,20 @@ Deinitialized shape [Class: &quot;LOP_Tak_Civ_Man_04&quot;; Shape: &quot;lop_fac
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=260
-|hiddenSel=camo1,camo2,camo3,camo4,camo5,camo6,n1,n2,n3,i1,i2,i3,i4,i5
+|hiddenSel=camo1
+camo2
+camo3
+camo4
+camo5
+camo6
+n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
 |genLogErr=True
 |logErr=LOP_UA_BMP2: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_UA_BMP2: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -9526,7 +10263,20 @@ Deinitialized shape [Class: &quot;LOP_UA_Infantry_Crewman&quot;; Shape: &quot;a3
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3,camo4,camo5,camo6,n1,n2,n3,i1,i2,i3,i4,i5
+|hiddenSel=camo1
+camo2
+camo3
+camo4
+camo5
+camo6
+n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
 |genLogErr=True
 |logErr=LOP_UA_BMP1: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_UA_BMP1: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -9575,7 +10325,12 @@ LOP_UA_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9661,7 +10416,12 @@ LOP_UA_BMP1: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
 |genLogErr=True
 |logErr=LOP_UA_Mi8MT_Cargo: MainTurret - unknown animation source mainTurret
 LOP_UA_Mi8MT_Cargo: MainGun - unknown animation source mainGun
@@ -9710,7 +10470,12 @@ Deinitialized shape [Class: &quot;LOP_UA_Infantry_SL&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9753,7 +10518,12 @@ Deinitialized shape [Class: &quot;LOP_UA_Infantry_SL&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=25
-|hiddenSel=Camo1,Camo2,Camo3,Camo4,n1,n2
+|hiddenSel=Camo1
+Camo2
+Camo3
+Camo4
+n1
+n2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9796,7 +10566,10 @@ Deinitialized shape [Class: &quot;LOP_UA_Infantry_SL&quot;; Shape: &quot;a3\char
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob,insignia
+|hiddenSel=camo1
+camo2
+camob
+insignia
 |genLogErr=True
 |logErr=soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -9848,7 +10621,10 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob,insignia
+|hiddenSel=camo1
+camo2
+camob
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9891,7 +10667,10 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob,insignia
+|hiddenSel=camo1
+camo2
+camob
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9934,7 +10713,9 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9977,7 +10758,10 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob,insignia
+|hiddenSel=camo1
+camo2
+camob
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10020,7 +10804,9 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10063,7 +10849,9 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10106,7 +10894,9 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10149,7 +10939,9 @@ soldier[LOP_US_Infantry_Rifleman]:Some of magazines weren&apos;t stored in soldi
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[LOP_US_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_US_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -10201,7 +10993,9 @@ soldier[LOP_US_Infantry_AT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=True
 |logErr=soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -10253,7 +11047,9 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10296,7 +11092,9 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10339,7 +11137,9 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10382,7 +11182,9 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=2
-|hiddenSel=camo1,camo2,camob
+|hiddenSel=camo1
+camo2
+camob
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10425,7 +11227,16 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10468,7 +11279,16 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10511,7 +11331,16 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10554,7 +11383,16 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10597,7 +11435,16 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=32
-|hiddenSel=camo1,camo2g,n1,n2,n3,n4,i1,i2,i3,i4
+|hiddenSel=camo1
+camo2g
+n1
+n2
+n3
+n4
+i1
+i2
+i3
+i4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10640,7 +11487,10 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10683,7 +11533,10 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=500
-|hiddenSel=n1,n2,n3,i1
+|hiddenSel=n1
+n2
+n3
+i1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10726,7 +11579,20 @@ soldier[LOP_US_Infantry_AT_Asst]:Some of magazines weren&apos;t stored in soldie
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=300
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_US_BMP2D: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_US_BMP2D: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -10775,7 +11641,20 @@ LOP_US_BMP2D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=260
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_US_BMP2: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_US_BMP2: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -10824,7 +11703,20 @@ LOP_US_BMP2: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_US_BMP1: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_US_BMP1: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -10888,7 +11780,20 @@ Deinitialized shape [Class: &quot;LOP_US_Infantry_Engineer&quot;; Shape: &quot;r
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=300
-|hiddenSel=n1,n2,n3,i1,i2,i3,i4,i5,camo1,camo2,camo3,camo4,camo5,camo6
+|hiddenSel=n1
+n2
+n3
+i1
+i2
+i3
+i4
+i5
+camo1
+camo2
+camo3
+camo4
+camo5
+camo6
 |genLogErr=True
 |logErr=LOP_US_BMP1D: crate_l1_unhide - unknown animation source crate_l1_unhide_f
 LOP_US_BMP1D: crate_l2_unhide - unknown animation source crate_l2_unhide_f
@@ -10937,7 +11842,12 @@ LOP_US_BMP1D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=200
-|hiddenSel=camo1,camo2,camo3,n1,n2,n3
+|hiddenSel=camo1
+camo2
+camo3
+n1
+n2
+n3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10980,7 +11890,29 @@ LOP_US_BMP1D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=LOP_US_BTR60: HatchCommander - unknown animation source hatchCommander
 |createable=True
@@ -11023,7 +11955,29 @@ LOP_US_BMP1D: wood_1_unhide - unknown animation source wood_1_unhide_f
 |ModBase=Leights_OPFOR
 |Author=Leights OPFOR Pack
 |Armor=100
-|hiddenSel=camo1,camo2,i1,i2,i3,i4,i5,i6,i7,n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,i8,i9,i10
+|hiddenSel=camo1
+camo2
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+n1
+n2
+n3
+n4
+n5
+n6
+n7
+n8
+n9
+n10
+n11
+i8
+i9
+i10
 |genLogErr=True
 |logErr=Error: Wheel reference not initialized
 |createable=True

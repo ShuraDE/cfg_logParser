@@ -32906,7 +32906,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=camo,camo_fueltank
+|hiddenSel=camo
+camo_fueltank
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32949,7 +32950,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=camo,camo_fueltank
+|hiddenSel=camo
+camo_fueltank
 |genLogErr=False
 |logErr=
 |createable=True
@@ -32992,7 +32994,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=camo,camo_fueltank
+|hiddenSel=camo
+camo_fueltank
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33035,7 +33038,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=camo,camo_powgen
+|hiddenSel=camo
+camo_powgen
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33078,7 +33082,12 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=camo_powgen,camo1,camo2,camo_powgen_m,camo,camo_mlod
+|hiddenSel=camo_powgen
+camo1
+camo2
+camo_powgen_m
+camo
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33121,7 +33130,12 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=100
-|hiddenSel=camo_powgen,camo1,camo2,camo_powgen_m,camo,camo_mlod
+|hiddenSel=camo_powgen
+camo1
+camo2
+camo_powgen_m
+camo
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33422,7 +33436,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=camo,camo_powgen
+|hiddenSel=camo
+camo_powgen
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33465,7 +33480,11 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=camo,camo2,camo_powgen,camo_powgen_m,camo_mlod
+|hiddenSel=camo
+camo2
+camo_powgen
+camo_powgen_m
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33508,7 +33527,11 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=camo,camo2,camo_powgen,camo_powgen_m,camo_mlod
+|hiddenSel=camo
+camo2
+camo_powgen
+camo_powgen_m
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33551,7 +33574,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=camo,camo_powgen
+|hiddenSel=camo
+camo_powgen
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33594,7 +33618,11 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=camo,camo2,camo_powgen,camo_powgen_m,camo_mlod
+|hiddenSel=camo
+camo2
+camo_powgen
+camo_powgen_m
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33637,7 +33665,11 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=50
-|hiddenSel=camo,camo2,camo_powgen,camo_powgen_m,camo_mlod
+|hiddenSel=camo
+camo2
+camo_powgen
+camo_powgen_m
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33723,7 +33755,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=camo_powgen,camo_powgen_m
+|hiddenSel=camo_powgen
+camo_powgen_m
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33766,7 +33799,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=camo_powgen,camo_powgen_m
+|hiddenSel=camo_powgen
+camo_powgen_m
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33852,7 +33886,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=camo,camo_mlod
+|hiddenSel=camo
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33895,7 +33930,8 @@
 |ModBase=AllInArmaTerrainPack
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=camo,camo_mlod
+|hiddenSel=camo
+camo_mlod
 |genLogErr=False
 |logErr=
 |createable=True

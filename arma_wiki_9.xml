@@ -7002,7 +7002,8 @@ Warning Message: Cannot load texture ca\air_e\uh60m\data\m134_ti_ca.paa.
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7088,7 +7089,8 @@ Warning Message: Cannot load texture ca\air_e\uh60m\data\m134_ti_ca.paa.
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7131,7 +7133,8 @@ Warning Message: Cannot load texture ca\air_e\uh60m\data\m134_ti_ca.paa.
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7174,7 +7177,8 @@ Warning Message: Cannot load texture ca\air_e\uh60m\data\m134_ti_ca.paa.
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7217,7 +7221,8 @@ Warning Message: Cannot load texture ca\air_e\uh60m\data\m134_ti_ca.paa.
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7260,7 +7265,8 @@ Warning Message: Cannot load texture ca\air_e\uh60m\data\m134_ti_ca.paa.
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -7312,7 +7318,8 @@ soldier[B_soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7355,7 +7362,8 @@ soldier[B_soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7398,7 +7406,8 @@ soldier[B_soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7441,7 +7450,8 @@ soldier[B_soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -7493,7 +7503,8 @@ soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7536,7 +7547,8 @@ soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7579,7 +7591,8 @@ soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7622,7 +7635,8 @@ soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7665,7 +7679,8 @@ soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7708,7 +7723,8 @@ soldier[B_soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -7760,7 +7776,8 @@ soldier[B_soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -7812,7 +7829,8 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7855,7 +7873,8 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7898,7 +7917,8 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7941,7 +7961,8 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -7984,7 +8005,9 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8027,7 +8050,8 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8070,7 +8094,8 @@ soldier[B_soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_soldier_PG_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_soldier_PG_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8122,7 +8147,8 @@ soldier[B_soldier_PG_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8174,7 +8200,8 @@ soldier[B_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8217,7 +8244,9 @@ soldier[B_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8260,7 +8289,9 @@ soldier[B_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8303,7 +8334,9 @@ soldier[B_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[B_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8350,7 +8383,8 @@ soldier[B_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8393,7 +8427,8 @@ soldier[B_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8445,7 +8480,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8488,7 +8524,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8531,7 +8568,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8574,7 +8612,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8617,7 +8656,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8660,7 +8700,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8703,7 +8744,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -8746,7 +8788,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person Miller
  - person Miller
@@ -8792,7 +8835,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person Miller
  - person Kerry
@@ -8839,7 +8883,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person Kerry
  - person Lacey
@@ -8886,7 +8931,8 @@ soldier[B_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person Lacey
 soldier[B_CTRG_soldier_GL_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8944,7 +8990,8 @@ soldier[B_CTRG_soldier_GL_LAT_F]:Some of magazines weren&apos;t stored in soldie
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_CTRG_soldier_engineer_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_CTRG_soldier_engineer_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -8995,7 +9042,8 @@ soldier[B_CTRG_soldier_engineer_exp_F]:Some of magazines weren&apos;t stored in 
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person Hardy
  - person James
@@ -9042,7 +9090,8 @@ soldier[B_CTRG_soldier_engineer_exp_F]:Some of magazines weren&apos;t stored in 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person James
 soldier[B_CTRG_soldier_AR_A_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -9099,7 +9148,8 @@ soldier[B_CTRG_soldier_AR_A_F]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr= - person McKay
 soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -9152,7 +9202,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9195,7 +9246,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9238,7 +9290,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9281,7 +9334,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9324,7 +9378,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9367,7 +9422,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9410,7 +9466,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9453,7 +9510,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9496,7 +9554,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9539,7 +9598,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9582,7 +9642,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9625,7 +9686,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9668,7 +9730,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9711,7 +9774,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9754,7 +9818,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9797,7 +9862,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9840,7 +9906,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9883,7 +9950,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9926,7 +9994,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -9969,7 +10038,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10012,7 +10082,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10055,7 +10126,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10098,7 +10170,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10141,7 +10214,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10184,7 +10258,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10227,7 +10302,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10270,7 +10346,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10313,7 +10390,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10356,7 +10434,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10399,7 +10478,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10442,7 +10522,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10485,7 +10566,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10528,7 +10610,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10571,7 +10654,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10786,7 +10870,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,insignia
+|hiddenSel=camo1
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10829,7 +10914,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,insignia
+|hiddenSel=camo1
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10872,7 +10958,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,insignia
+|hiddenSel=camo1
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10915,7 +11002,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,insignia
+|hiddenSel=camo1
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -10958,7 +11046,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11001,7 +11090,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11087,7 +11177,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11130,7 +11221,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11173,7 +11265,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11216,7 +11309,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11259,7 +11353,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11302,7 +11397,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11345,7 +11441,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11388,7 +11485,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11431,7 +11529,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11474,7 +11573,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11517,7 +11617,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11560,7 +11661,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11603,7 +11705,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11646,7 +11749,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11689,7 +11793,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11732,7 +11837,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11775,7 +11881,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11818,7 +11925,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11861,7 +11969,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11904,7 +12013,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -11947,7 +12057,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12033,7 +12144,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12076,7 +12188,8 @@ soldier[B_soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 2c not found
@@ -12127,7 +12240,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 2c not found
@@ -12178,7 +12292,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12221,7 +12336,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12264,7 +12380,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12307,7 +12424,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12350,7 +12468,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_G_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_G_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -12445,7 +12564,8 @@ soldier[B_G_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12488,7 +12608,8 @@ soldier[B_G_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12574,7 +12695,8 @@ soldier[B_G_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12617,7 +12739,8 @@ soldier[B_G_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,insignia
+|hiddenSel=camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -12669,7 +12792,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12755,7 +12879,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12798,7 +12923,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12841,7 +12967,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12927,7 +13054,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -12970,7 +13098,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13013,7 +13142,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13056,7 +13186,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13099,7 +13230,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13142,7 +13274,8 @@ soldier[B_G_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[I_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[I_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -13194,7 +13327,8 @@ soldier[I_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13237,7 +13371,8 @@ soldier[I_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13280,7 +13415,8 @@ soldier[I_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13323,7 +13459,8 @@ soldier[I_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[I_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[I_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -13375,7 +13512,8 @@ soldier[I_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[I_Soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[I_Soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -13427,7 +13565,8 @@ soldier[I_Soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -13479,7 +13618,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13522,7 +13662,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13565,7 +13706,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13608,7 +13750,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13651,7 +13794,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13694,7 +13838,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13737,7 +13882,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13780,7 +13926,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13823,7 +13970,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13866,7 +14014,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13909,7 +14058,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13952,7 +14102,8 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13995,7 +14146,9 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14038,7 +14191,9 @@ soldier[I_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[I_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[I_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -14085,7 +14240,9 @@ soldier[I_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14128,7 +14285,8 @@ soldier[I_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14171,7 +14329,8 @@ soldier[I_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14214,7 +14373,8 @@ soldier[I_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -14261,7 +14421,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14304,7 +14465,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14347,7 +14509,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14390,7 +14553,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14433,7 +14597,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14476,7 +14641,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14519,7 +14685,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14562,7 +14729,9 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14605,7 +14774,8 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14648,7 +14818,9 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14691,7 +14863,9 @@ soldier[I_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Soldier_GL_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Soldier_GL_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -14738,7 +14912,9 @@ soldier[O_Soldier_GL_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -14790,7 +14966,9 @@ soldier[O_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14833,7 +15011,9 @@ soldier[O_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14876,7 +15056,9 @@ soldier[O_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14919,7 +15101,9 @@ soldier[O_Soldier_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -14971,7 +15155,9 @@ soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15014,7 +15200,9 @@ soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15057,7 +15245,9 @@ soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15100,7 +15290,8 @@ soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15143,7 +15334,9 @@ soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15186,7 +15379,9 @@ soldier[O_Soldier_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -15238,7 +15433,9 @@ soldier[O_Soldier_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -15290,7 +15487,9 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15333,7 +15532,9 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15376,7 +15577,8 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15419,7 +15621,8 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15462,7 +15665,9 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15505,7 +15710,9 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15548,7 +15755,9 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15591,7 +15800,9 @@ soldier[O_Soldier_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -15638,7 +15849,9 @@ soldier[O_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=curator
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15681,7 +15894,9 @@ soldier[O_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=Unlocked_Uniforms
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15724,7 +15939,9 @@ soldier[O_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15767,7 +15984,9 @@ soldier[O_soldier_UAV_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -15814,7 +16033,9 @@ soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15857,7 +16078,9 @@ soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15900,7 +16123,9 @@ soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15943,7 +16168,9 @@ soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -15986,7 +16213,9 @@ soldier[O_diver_exp_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16038,7 +16267,9 @@ soldier[O_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16081,7 +16312,9 @@ soldier[O_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16124,7 +16357,9 @@ soldier[O_recon_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_recon_JTAC_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_recon_JTAC_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16171,7 +16406,9 @@ soldier[O_recon_JTAC_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16214,7 +16451,9 @@ soldier[O_recon_JTAC_F]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16266,7 +16505,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16309,7 +16550,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16352,7 +16595,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16395,7 +16640,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16438,7 +16685,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16481,7 +16730,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16524,7 +16775,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16567,7 +16820,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16610,7 +16865,9 @@ soldier[O_Soldier_AAR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_soldierU_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_soldierU_AR_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16662,7 +16919,9 @@ soldier[O_soldierU_AR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16705,7 +16964,9 @@ soldier[O_soldierU_AR_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_soldierU_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_soldierU_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16757,7 +17018,9 @@ soldier[O_soldierU_LAT_F]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_soldierU_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_soldierU_AT_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16809,7 +17072,9 @@ soldier[O_soldierU_AT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16852,7 +17117,9 @@ soldier[O_soldierU_AT_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -16904,7 +17171,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16947,7 +17216,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16990,7 +17261,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17033,7 +17306,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17076,7 +17351,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17119,7 +17396,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17162,7 +17441,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17205,7 +17486,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17248,7 +17531,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17291,7 +17576,9 @@ soldier[O_soldierU_AA_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_SoldierU_GL_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_SoldierU_GL_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -17811,7 +18098,8 @@ soldier[O_SoldierU_GL_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=kart
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -17863,7 +18151,12 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo_arm_left,Camo_arm_right,Camo_body,Camo_head,Camo_leg_left,Camo_leg_right
+|hiddenSel=Camo_arm_left
+Camo_arm_right
+Camo_body
+Camo_head
+Camo_leg_left
+Camo_leg_right
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17906,7 +18199,12 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo_arm_left,Camo_arm_right,Camo_body,Camo_head,Camo_leg_left,Camo_leg_right
+|hiddenSel=Camo_arm_left
+Camo_arm_right
+Camo_body
+Camo_head
+Camo_leg_left
+Camo_leg_right
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17949,7 +18247,12 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo_arm_left,Camo_arm_right,Camo_body,Camo_head,Camo_leg_left,Camo_leg_right
+|hiddenSel=Camo_arm_left
+Camo_arm_right
+Camo_body
+Camo_head
+Camo_leg_left
+Camo_leg_right
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17992,7 +18295,12 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo_arm_left,Camo_arm_right,Camo_body,Camo_head,Camo_leg_left,Camo_leg_right
+|hiddenSel=Camo_arm_left
+Camo_arm_right
+Camo_body
+Camo_head
+Camo_leg_left
+Camo_leg_right
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18035,7 +18343,10 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo_stripes,camo1,camo2,camo3
+|hiddenSel=camo_stripes
+camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18078,7 +18389,10 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo_stripes,camo1,camo2,camo3
+|hiddenSel=camo_stripes
+camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18121,7 +18435,10 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo_stripes,camo1,camo2,camo3
+|hiddenSel=camo_stripes
+camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18164,7 +18481,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18207,7 +18526,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18250,7 +18571,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18293,7 +18616,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18336,7 +18661,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18379,7 +18706,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18422,7 +18751,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18465,7 +18796,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18508,7 +18841,9 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=camo,camo3,camo4
+|hiddenSel=camo
+camo3
+camo4
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18551,7 +18886,8 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18594,7 +18930,8 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18637,7 +18974,8 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18680,7 +19018,8 @@ soldier[C_Marshal_F]:Some of magazines weren&apos;t stored in soldier Vest or Un
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -18727,7 +19066,9 @@ soldier[B_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18770,7 +19111,9 @@ soldier[B_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18813,7 +19156,9 @@ soldier[B_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18856,7 +19201,9 @@ soldier[B_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -18903,7 +19250,9 @@ soldier[O_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[O_Urban_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[O_Urban_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -18950,7 +19299,8 @@ soldier[O_Urban_HeavyGunner_F]:Some of magazines weren&apos;t stored in soldier 
 |ModBase=mark
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -24974,7 +25324,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25017,7 +25368,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25060,7 +25412,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=heli
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_1,Camo_2
+|hiddenSel=Camo_1
+Camo_2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25619,7 +25972,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25662,7 +26016,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25705,7 +26060,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25748,7 +26104,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25791,7 +26148,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25834,7 +26192,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25877,7 +26236,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25920,7 +26280,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -25963,7 +26324,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -26006,7 +26368,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -26049,7 +26412,8 @@ soldier[B_G_Sharpshooter_F]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=arc_cp
 |Author=Bohemia Interactive
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33279,7 +33643,8 @@ Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33322,7 +33687,8 @@ Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33365,7 +33731,8 @@ Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33408,7 +33775,8 @@ Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33460,7 +33828,8 @@ soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33503,7 +33872,8 @@ soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33546,7 +33916,8 @@ soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33589,7 +33960,8 @@ soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33632,7 +34004,8 @@ soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33675,7 +34048,8 @@ soldier[COREV_B_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_B_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_B_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33727,7 +34101,8 @@ soldier[COREV_B_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_B_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_B_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33779,7 +34154,8 @@ soldier[COREV_B_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -33831,7 +34207,8 @@ soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33874,7 +34251,9 @@ soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33917,7 +34296,9 @@ soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -33960,7 +34341,9 @@ soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34003,7 +34386,9 @@ soldier[COREV_B_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -34055,7 +34440,9 @@ soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34098,7 +34485,9 @@ soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34141,7 +34530,9 @@ soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34184,7 +34575,9 @@ soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34227,7 +34620,9 @@ soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34270,7 +34665,9 @@ soldier[COREV_O_Thai_AR]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -34322,7 +34719,9 @@ soldier[COREV_O_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -34374,7 +34773,9 @@ soldier[COREV_O_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -34426,7 +34827,9 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34469,7 +34872,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34512,7 +34916,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34555,7 +34960,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34598,7 +35004,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34641,7 +35048,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34684,7 +35092,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34727,7 +35136,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34770,7 +35180,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34813,7 +35224,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34856,7 +35268,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34899,7 +35312,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34942,7 +35356,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -34985,7 +35400,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35028,7 +35444,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35071,7 +35488,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35114,7 +35532,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35157,7 +35576,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35200,7 +35620,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35243,7 +35664,8 @@ soldier[COREV_O_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_PMC_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_PMC_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35295,7 +35717,8 @@ soldier[COREV_PMC_Thai_LAT]:Some of magazines weren&apos;t stored in soldier Ves
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_PMC_Thai_LAT_I]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_PMC_Thai_LAT_I]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35347,7 +35770,8 @@ soldier[COREV_PMC_Thai_LAT_I]:Some of magazines weren&apos;t stored in soldier V
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_PMC_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_PMC_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35399,7 +35823,8 @@ soldier[COREV_PMC_Thai_AT]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_PMC_Thai_AT_I]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_PMC_Thai_AT_I]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35451,7 +35876,8 @@ soldier[COREV_PMC_Thai_AT_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_PMC_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_PMC_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35503,7 +35929,8 @@ soldier[COREV_PMC_Thai_AA]:Some of magazines weren&apos;t stored in soldier Vest
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -35555,7 +35982,8 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35598,7 +36026,8 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35641,7 +36070,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35684,7 +36115,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35727,7 +36160,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35770,7 +36205,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35813,7 +36250,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35856,7 +36295,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35899,7 +36340,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35942,7 +36385,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -35985,7 +36430,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36028,7 +36475,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36071,7 +36520,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36114,7 +36565,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36157,7 +36610,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36200,7 +36655,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36243,7 +36700,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36286,7 +36745,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36329,7 +36790,9 @@ soldier[COREV_PMC_Thai_AA_I]:Some of magazines weren&apos;t stored in soldier Ve
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in a3\characters_f\civil\c_nikos.p3d. Selection 2c not found
@@ -36380,7 +36843,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36423,7 +36888,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in corevunbinextaf\pimp.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in corevunbinextaf\pimp.p3d. Selection 2c not found
@@ -36474,7 +36941,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36517,7 +36986,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in a3\characters_f_epc\civil\c_nikos_aged.p3d. Selection 2c not found
@@ -36568,7 +37038,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36611,7 +37082,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in corevunbinextaf\office.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in corevunbinextaf\office.p3d. Selection 2c not found
@@ -36662,7 +37134,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36705,7 +37178,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=True
 |logErr=Wrong vertex mapping for person collision geometry found in corevunbinextaf\office2.p3d. Selection 1c not found
 Wrong vertex mapping for person collision geometry found in corevunbinextaf\office2.p3d. Selection 2c not found
@@ -36756,7 +37230,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36799,7 +37274,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36842,7 +37318,8 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo,insignia
+|hiddenSel=Camo
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36885,7 +37362,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36928,7 +37407,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -36971,7 +37452,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37014,7 +37497,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37057,7 +37542,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37100,7 +37587,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37143,7 +37632,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37186,7 +37677,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37229,7 +37722,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37272,7 +37767,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37315,7 +37812,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37358,7 +37857,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37401,7 +37902,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37444,7 +37947,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37487,7 +37992,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37530,7 +38037,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37573,7 +38082,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37616,7 +38127,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37659,7 +38172,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37702,7 +38217,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37745,7 +38262,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37788,7 +38307,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37831,7 +38352,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37874,7 +38397,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37917,7 +38442,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -37960,7 +38487,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38003,7 +38532,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -38046,7 +38577,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39895,7 +40428,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39938,7 +40473,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -39981,7 +40518,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40024,7 +40563,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40067,7 +40608,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40110,7 +40653,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40153,7 +40698,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40196,7 +40743,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40239,7 +40788,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40282,7 +40833,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40325,7 +40878,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40368,7 +40923,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40411,7 +40968,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40454,7 +41013,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40497,7 +41058,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40540,7 +41103,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40583,7 +41148,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40626,7 +41193,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -40669,7 +41238,9 @@ Wrong geometry convex component mapping  for person collision geometry found in 
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKA_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKA_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40721,7 +41292,9 @@ soldier[COREV_O_TKA_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKF_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKF_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40773,7 +41346,9 @@ soldier[COREV_O_TKF_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKA_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKA_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40825,7 +41400,9 @@ soldier[COREV_O_TKA_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKF_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKF_AT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40877,7 +41454,9 @@ soldier[COREV_O_TKF_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKA_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKA_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40929,7 +41508,9 @@ soldier[COREV_O_TKA_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -40981,7 +41562,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41024,7 +41607,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41067,7 +41652,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41110,7 +41697,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41153,7 +41742,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41196,7 +41787,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41239,7 +41832,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41282,7 +41877,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41325,7 +41922,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41368,7 +41967,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41411,7 +42012,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41454,7 +42057,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41497,7 +42102,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41540,7 +42147,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41583,7 +42192,9 @@ soldier[COREV_O_TKF_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -41636,7 +42247,9 @@ Generating ST on the fly is very slow
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -41688,7 +42301,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41731,7 +42346,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41774,7 +42391,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41817,7 +42436,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41860,7 +42481,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41903,7 +42526,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41946,7 +42571,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -41989,7 +42616,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42032,7 +42661,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42075,7 +42706,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42118,7 +42751,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=safety - unknown animation source revolve
 |createable=True
@@ -42161,7 +42796,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=safety - unknown animation source revolve
 |createable=True
@@ -42204,7 +42841,9 @@ soldier[COREV_I_TKG_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TKG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TKG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -42256,7 +42895,9 @@ soldier[COREV_O_TKG_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_TKG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_TKG_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -42308,7 +42949,9 @@ soldier[COREV_I_TKG_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
@@ -42362,7 +43005,9 @@ soldier[COREV_O_TKG_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
@@ -42416,7 +43061,9 @@ soldier[COREV_I_TKG_AT]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
@@ -42470,7 +43117,9 @@ soldier[COREV_O_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch72mm_9K38
@@ -42524,7 +43173,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42567,7 +43218,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42610,7 +43263,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42653,7 +43308,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42696,7 +43353,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42739,7 +43398,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42782,7 +43443,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=Generating ST on the fly is very slow
 |createable=True
@@ -42825,7 +43488,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42868,7 +43533,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42911,7 +43578,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -42954,7 +43623,9 @@ soldier[COREV_I_TKG_AA]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -43006,7 +43677,9 @@ soldier[COREV_O_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -43058,7 +43731,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43101,7 +43776,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43144,7 +43821,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43187,7 +43866,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43230,7 +43911,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43273,7 +43956,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43316,7 +44001,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43359,7 +44046,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43402,7 +44091,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43445,7 +44136,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -43488,7 +44181,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=safety - unknown animation source revolve
 |createable=True
@@ -43531,7 +44226,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=safety - unknown animation source revolve
 |createable=True
@@ -43574,7 +44271,9 @@ soldier[COREV_I_TME_GL]:Some of magazines weren&apos;t stored in soldier Vest or
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_O_TME_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_O_TME_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -43626,7 +44325,9 @@ soldier[COREV_O_TME_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=soldier[COREV_I_TME_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
 soldier[COREV_I_TME_LAT]:Some of magazines weren&apos;t stored in soldier Vest or Uniform?
@@ -43678,7 +44379,9 @@ soldier[COREV_I_TME_LAT]:Some of magazines weren&apos;t stored in soldier Vest o
 |ModBase=WarfareThaiEXTAF
 |Author=WarfareThai
 |Armor=2
-|hiddenSel=Camo1,Camo2,insignia
+|hiddenSel=Camo1
+Camo2
+insignia
 |genLogErr=True
 |logErr=shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115
 shotPos=&apos;muzzlePos2&apos; found in config but not found in model Launch130mm_9K115

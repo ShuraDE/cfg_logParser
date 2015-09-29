@@ -13505,7 +13505,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13548,7 +13549,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13591,7 +13593,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13634,7 +13637,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13677,7 +13681,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13720,7 +13725,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13763,7 +13769,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13806,7 +13813,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13849,7 +13857,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13892,7 +13901,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13935,7 +13945,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -13978,7 +13989,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14021,7 +14033,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14064,7 +14077,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14107,7 +14121,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14150,7 +14165,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14193,7 +14209,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14236,7 +14253,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14279,7 +14297,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14322,7 +14341,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14365,7 +14385,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14408,7 +14429,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14451,7 +14473,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -14494,7 +14517,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -16042,7 +16066,8 @@ Cannot create non-ai vehicle placed_I_IR_grenade,
 |ModBase=
 |Author=Bohemia Interactive
 |Armor=200
-|hiddenSel=camo1,camo2
+|hiddenSel=camo1
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17248,7 +17273,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17291,7 +17317,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17334,7 +17361,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17377,7 +17405,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17420,7 +17449,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=True
 |logErr=Warning Message: Cannot load texture raven\data\rq11a_co.paa.
 |createable=True
@@ -17463,7 +17493,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17506,7 +17537,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17549,7 +17581,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17592,7 +17625,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17635,7 +17669,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -17678,7 +17713,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=RHSUSF
 |Author=Feint
 |Armor=450
-|hiddenSel=camo,camo1
+|hiddenSel=camo
+camo1
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18710,7 +18746,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18753,7 +18790,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=CBA_A3
 |Author=Bohemia Interactive
 |Armor=60
-|hiddenSel=camo,camo2
+|hiddenSel=camo
+camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18796,7 +18834,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=700
-|hiddenSel=Camo1,Camo2
+|hiddenSel=Camo1
+Camo2
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18839,7 +18878,22 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=bwa3
 |Author=BWMod
 |Armor=550
-|hiddenSel=mat_wanne,mat_turm,mat_fahrwerk,mat_decals,mat_netz,y_a,y_b,y_c,y_d,y_e,y_f,takt_a,takt_b,takt_c,takt_d,insignia
+|hiddenSel=mat_wanne
+mat_turm
+mat_fahrwerk
+mat_decals
+mat_netz
+y_a
+y_b
+y_c
+y_d
+y_e
+y_f
+takt_a
+takt_b
+takt_c
+takt_d
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18882,7 +18936,9 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=ace
 |Author=Bohemia Interactive
 |Armor=300
-|hiddenSel=camo1,camo2,camo3
+|hiddenSel=camo1
+camo2
+camo3
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18925,7 +18981,20 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=bwa3
 |Author=BWMod
 |Armor=520
-|hiddenSel=mat_wanne,mat_turm,mat_netz,y_a,y_b,y_c,y_d,y_e,y_f,takt_a,takt_b,takt_c,takt_d,insignia
+|hiddenSel=mat_wanne
+mat_turm
+mat_netz
+y_a
+y_b
+y_c
+y_d
+y_e
+y_f
+takt_a
+takt_b
+takt_c
+takt_d
+insignia
 |genLogErr=False
 |logErr=
 |createable=True
@@ -18968,7 +19037,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=task_force_radio
 |Author=TFAR
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -19011,7 +19081,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=task_force_radio
 |Author=TFAR
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
@@ -19054,7 +19125,8 @@ Warning Message: Size: &apos;/&apos; not an array
 |ModBase=task_force_radio
 |Author=TFAR
 |Armor=200
-|hiddenSel=Camo_Signs,Camo
+|hiddenSel=Camo_Signs
+Camo
 |genLogErr=False
 |logErr=
 |createable=True
